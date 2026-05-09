@@ -81,7 +81,7 @@ class KMeans:
         
         if self.options['km_init'] == 'first':
             centroids = []
-            for points in self.X:
+            for points in self.X: #iterates over all the points, in order, if that point its not on the centroids list add it, otherwise ignore
                 added = False
                 for c in centroids:
                     if np.array_equal(points, c):
@@ -93,12 +93,12 @@ class KMeans:
             self.centroids = np.array(centroids)
             
         elif self.options['km_init'] == 'random':
-            self.centroids = np.array(random.sample(list(self.X), self.K))
+            self.centroids = np.array(random.sample(list(self.X), self.K)) #takes random points for init centroids
 
         elif self.options['km_init'].lower() == 'custom':
             min_vals = np.min(self.X, axis=0)
             max_vals = np.max(self.X, axis=0)
-            self.centroids = np.linspace(min_vals, max_vals, self.K)
+            self.centroids = np.linspace(min_vals, max_vals, self.K)  #inits centroids equally distributed over the sample
 
         self.old_centroids = np.zeros_like(self.centroids)
 
@@ -112,8 +112,9 @@ class KMeans:
         ##  YOU MUST REMOVE THE REST OF THE CODE OF THIS FUNCTION
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
-        distances = distance(self.X, self.centroids)
-        self.labels = np.argmin(distances, axis=1)
+        distances = distance(self.X, self.centroids) #calc every point distance to the centroids
+        self.labels = np.argmin(distances, axis=1) #get the arg (label) of every point by the neareast centroid
+        #returns a list of labels, each point has a label, for example, self.labels[0] is the label of self.X[0] and so on
 
     def get_centroids(self):
         """
@@ -127,12 +128,12 @@ class KMeans:
 
         auxCentroids = np.zeros((self.K, self.X.shape[-1]))
         numPoints = np.zeros(self.K)
-        for i, points in enumerate(self.labels):
-            auxCentroids[points] += self.X[i]
-            numPoints[points] += 1
+        for i, points in enumerate(self.labels): #iterates over every label and sums the points location and number of points of each label
+            auxCentroids[points] += self.X[i] #auxCentroids stores for every label auxCentroids[points] the sum of their points
+            numPoints[points] += 1 #numPoints stores for every label the number of points
         
         numPoints[numPoints == 0] = 1
-        self.centroids = auxCentroids / numPoints[:, None]
+        self.centroids = auxCentroids / numPoints[:, None] #then, calculate the average to get the new centroids
         
 
 
@@ -145,7 +146,7 @@ class KMeans:
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
         diff = np.array(self.centroids - self.old_centroids)
-        return np.all(np.linalg.norm(diff, axis=1) <= self.options['tolerance'])
+        return np.all(np.linalg.norm(diff, axis=1) <= self.options['tolerance']) #if the change of centroids position from prev iteration is lower than a tolerance we can say its done.
 
     def fit(self):
         """
@@ -159,7 +160,7 @@ class KMeans:
         self._init_centroids()
         self.num_iter = 0
     
-        while self.num_iter < self.options['max_iter']:
+        while self.num_iter < self.options['max_iter']: #maing algorithm of KMEANS
             self.get_labels()
             self.get_centroids()
             self.num_iter += 1
@@ -177,9 +178,9 @@ class KMeans:
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
   
-        dist = distance(self.X, self.centroids)
-        min_dist = np.min(dist, axis=1)
-        return np.mean(min_dist ** 2) 
+        dist = distance(self.X, self.centroids) #get distance of every point to every centroid
+        min_dist = np.min(dist, axis=1) #get the lowest distance for every point (which is the distance of that point to his class centroid)
+        return np.mean(min_dist ** 2) #calc mean of the distance squared so we get WCD.
     
         
 
@@ -196,7 +197,7 @@ class KMeans:
         km.fit()
         prevWCD = km.withinClassDistance()
         found = False
-        for i in range(max_K - 1):
+        for i in range(max_K - 1): #do Kmeans with diferent values of K until we find, by a drop of WCD parameter, which is the best K.
             km = KMeans(self.X, i + 2, self.options)
             km.fit()
             actualWCD = km.withinClassDistance()
@@ -249,4 +250,4 @@ def get_colors(centroids):
     probs = utils.get_color_prob(centroids)
     index = np.argmax(probs, axis=1)
     colors = [utils.colors[i] for i in index]
-    return colors
+    return colors #given a list of centroids, returns another list but with the colours associated to each centroid
