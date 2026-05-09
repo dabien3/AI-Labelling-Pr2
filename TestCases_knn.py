@@ -3,6 +3,7 @@ import unittest
 
 from KNN import __authors__, __group__, KNN
 from utils import *
+from utils_data import *
 
 
 class TestCases(unittest.TestCase):
@@ -11,6 +12,7 @@ class TestCases(unittest.TestCase):
         np.random.seed(123)
         with open('./test/test_cases_knn.pkl', 'rb') as f:
             self.test_cases = pickle.load(f)
+        
 
     def test_NIU(self):
         # DON'T FORGET TO WRITE YOUR NIU AND GROUPS
