@@ -1,5 +1,5 @@
-__authors__ = 'TO_BE_FILLED'
-__group__ = 'TO_BE_FILLED'
+__authors__ = ["1707361"]
+__group__ = '87'
 
 from utils_data import read_dataset, read_extended_dataset, crop_images
 
