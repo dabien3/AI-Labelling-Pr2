@@ -113,11 +113,7 @@ class KMeans:
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
         distances = distance(self.X, self.centroids)
-        labels = []
-        for d in distances:
-            indexC = np.argmin(d)
-            labels.append(indexC)
-        self.labels = np.array(labels)
+        self.labels = np.argmin(distances, axis=1)
 
     def get_centroids(self):
         """
@@ -180,11 +176,10 @@ class KMeans:
         ##  YOU MUST REMOVE THE REST OF THE CODE OF THIS FUNCTION
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
-        sumDist = 0
+  
         dist = distance(self.X, self.centroids)
-        for d in dist:
-            sumDist += np.min(d) ** 2
-        return sumDist / len(self.X) 
+        min_dist = np.min(dist, axis=1)
+        return np.mean(min_dist ** 2) 
     
         
 
@@ -233,15 +228,8 @@ def distance(X, C):
     ##  AND CHANGE FOR YOUR OWN CODE
     #########################################################
     
-    dist = np.zeros((X.shape[0], C.shape[0]))
-
-    for i in range(X.shape[0]):
-        for j in range(C.shape[0]):
-            dist[i, j] = np.linalg.norm(X[i] - C[j])
-    return dist
+    return np.linalg.norm(X[:, None] - C[None, :], axis=2)
             
-
-
 
 
 def get_colors(centroids):
