@@ -37,7 +37,7 @@ def test_best_k(image_filename, K, option, max_k):
 
 
 # TEST 1: Question 2
-test_1 = test_kmeans_on_image('img1_tw.jpg', 4, 'first')
+test_1 = test_kmeans_on_image('img1_tw.jpg', 4, 'custom2')
 print("Test 1 Centroids:", test_1, "\n")
 
 # TEST 2: Question 3
@@ -45,18 +45,18 @@ test_2 = test_kmeans_on_image('img2_tw.jpg', 1, 'random')
 print("Test 2 Centroids:", test_2, "\n")
 
 # TEST 3: Question 4
-test_3 = test_DCW('img3_tw.jpg', 2, 'first')
+test_3 = test_DCW('img3_tw.jpg', 2, 'custom2')
 print("Test 3 DCW:", test_3, "\n")
 
 # TEST 4: Question 5
-test_4 = test_DCW('img2_tw.jpg', 1, 'first')
+test_4 = test_DCW('img2_tw.jpg', 1, 'custom2')
 print("Test 4 DCW:", test_4, "\n")
 
 # TEST 5: Question 6
-test_5 = test_colors('img1_tw.jpg', 4, 'first')
+test_5 = test_colors('img1_tw.jpg', 4, 'custom2')
 print("Test 5 colors:", test_5, "\n")
 
 # TEST 6: Question 7
 max_k = 10
-test_6 = test_best_k('img1_tw.jpg', 1, 'first', max_k)
+test_6 = test_best_k('img1_tw.jpg', 1, 'custom2', max_k)
 print("Test 6 best K:", test_6, "\n")

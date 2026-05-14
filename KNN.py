@@ -27,7 +27,7 @@ class KNN:
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
         P = train_data.shape[0]
-        return train_data.reshape(P, 80*60).astype(float)
+        return train_data.reshape(P, -1).astype(float)
         
 
     def get_k_neighbours(self, test_data, k):
@@ -43,7 +43,7 @@ class KNN:
         ##  AND CHANGE FOR YOUR OWN CODE
         #######################################################
         N = test_data.shape[0]
-        test_data_reshaped = test_data.reshape(N, 80*60).astype(float)
+        test_data_reshaped = test_data.reshape(N, -1).astype(float)
         
         list_top_k = [] #list to store top k labels for each object
         dist = cdist(test_data_reshaped, self.train_data, metric='euclidean') #calculate euclidean dist to every train point from every test point

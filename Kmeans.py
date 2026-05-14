@@ -99,6 +99,23 @@ class KMeans:
             min_vals = np.min(self.X, axis=0)
             max_vals = np.max(self.X, axis=0)
             self.centroids = np.linspace(min_vals, max_vals, self.K)  #inits centroids equally distributed over the sample
+        
+        elif self.options['km_init'].lower() == 'custom2':
+            #we will use kmeans++
+            centroids = []
+            num_samples = self.X.shape[0]
+            centroids.append(self.X[np.random.randint(num_samples)]) #choose the first random point
+
+            for i in range(1, self.K):
+                distances = distance(self.X, np.array(centroids)) #calc distance from every point to the centroid
+                min_distance = np.min(distances, axis = 1) #returns the distance of every point to their neareast centroid
+
+                probs = min_distance ** 2 
+                probs = probs / np.sum(probs) #gives a weight to every point, depending on their distance
+
+                centroids.append(self.X[np.random.choice(num_samples, p=probs)]) #chooses next centroid randomly, but given preference
+                #to farther points
+            self.centroids = np.array(centroids)
 
         self.old_centroids = np.zeros_like(self.centroids)
 
@@ -182,8 +199,24 @@ class KMeans:
         min_dist = np.min(dist, axis=1) #get the lowest distance for every point (which is the distance of that point to his class centroid)
         return np.mean(min_dist ** 2) #calc mean of the distance squared so we get WCD.
     
-        
+    def interClassDistanceCentroids(self):
+        dist = distance(self.centroids, self.centroids) #calcu dist from every centroid to every centroid
+        return np.mean(np.triu(dist, k=1)) #eliminate everything below the diagonal of the matrix, since its symmetric
+    
+    def interClassDistancePoints(self):
+        dist = distance(self.X, self.X)
+        total = 0
+        count = 0
 
+        for i in range(len(self.X)):
+            for j in range(i+1, len(self.X)):
+                if self.labels[i] != self.labels[j]:
+                    total += dist[i][j]
+                    count += 1
+        return total/count
+
+    def fisherDiscriminant(self):
+        return self.withinClassDistance()/self.interClassDistanceCentroids()
 
     def find_bestK(self, max_K):
         """
