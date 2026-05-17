@@ -1,5 +1,5 @@
-__authors__ = 'TU_NOMBRE'
-__group__ = 'TU_GRUPO'
+__authors__ = ["1707361, 1709928, 1711116"]
+__group__ = '87'
 
 import numpy as np
 from KNN import KNN
@@ -7,7 +7,38 @@ from Kmeans import KMeans, get_colors
 from utils_data import read_dataset, read_extended_dataset, crop_images, visualize_retrieval
 import time
 
+def retrieval_by_shape(images, shape_labels, query):
+    matched_images= [] # list where we save the images
+    for i, labels in enumerate(shape_labels): # we iterate the indices and the labels
+        if query in labels:
+            matched_images.append(images[i])
+        
+    return matched_images
 
+def retrieval_by_color(images, color_labels, query):
+    matched_indices = []
+    for i, labels in enumerate(color_labels):
+        if all(color in labels for color in query): # i didnt know how to find all the colors in the label of an image, but then I find all() that comproves if all the colors in the query are in the labels of the image (return True if all are found). With just one color in the query it won't be necessary use all 
+            matched_indices.append(i)
+            
+    for i in matched_indices: # then like before we save the images that match the query
+        matched_images = images[i] 
+        
+    return matched_images
+
+def retrieval_combined(images, shape_labels, color_labels, query_shape, query_colors): 
+
+    matched_images_by_shape = retrieval_by_shape(images, shape_labels, query_shape)
+    matched_images_by_color = retrieval_by_color(images, color_labels, query_colors)
+    
+    matched_images = []
+    # we want to find the images that match both the shape and the color, so we iterate the images that match the shape and we check if they are in the list of images that match the color, if they are we save them in the list of matched_images
+    for img in matched_images_by_shape:
+        if img in matched_images_by_color:
+            matched_images.append(img)
+    
+    return matched_images
+    
 def Get_shape_accuracy(knn, test_imgs, test_class_labels, k):
     
     # la IA intenta adivinar qué es cada prenda
@@ -95,3 +126,13 @@ if __name__ == '__main__':
     wcd, iters, t = Kmeans_statistics(8, cropped_images, options={'km_init': 'custom2'})
     for i in range(len(wcd)):
         print(f"K={i+2} | WCD={wcd[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
+    
+    print("\n[TEST 4] Retrieval_by_shape (Búsqueda por Forma):")
+    # 1. KNN predicts the shape labels for the test images
+    prediction_knn = knn_model.predict(test_imgs, k=4)
+    
+    # 2. We query for "Shirts"
+    query_form = "Shirts"
+    results_form = retrieval_by_shape(test_imgs, prediction_knn, query_form)
+    
+    print(f"There're {len(results_form)} with shape {query_form}")
