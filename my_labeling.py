@@ -88,10 +88,10 @@ if __name__ == '__main__':
     Get_shape_accuracy(knn_model, test_imgs, test_class_labels, 4)
 
     print("\n[TEST 2] Get_color_accuracy, Precisión de Color (K-Means):")
-    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'custom2'}, K = 4)
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'first'}, K = 4)
     print(f"ÍNDICE DE CALIDAD: {acc_color}%")
 
     print("\n[TEST 3] Kmeans_statistics (WCD):")
-    wcd, iters, t = Kmeans_statistics(8, cropped_images, options={'km_init': 'custom2'})
+    wcd, iters, t = Kmeans_statistics(8, cropped_images, options={'km_init': 'first'})
     for i in range(len(wcd)):
         print(f"K={i+2} | WCD={wcd[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
