@@ -7,12 +7,54 @@ from Kmeans import KMeans, get_colors
 from utils_data import read_dataset, read_extended_dataset, crop_images, visualize_retrieval
 import time
 
+def testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels):
+
+    dist_list = ['euclidean', 'cityblock', 'cosine']
+
+
+    base_options = {
+        "knn_size_data": (40, 40),
+        "f_space": "mean"
+    }
+
+    knn_base = KNN(train_imgs, train_class_labels, base_options)
+
+    X_train_base = knn_base.train_data
+
+
+    for k in range(8):
+
+        for d in dist_list:
+
+            for q in range(10, 41): 
+
+                options = {
+                    "knn_size_data": (40, 40),
+                    "f_space": "mean",
+                    "quadrants": q,
+                    "dist": d
+                }
+
+                knn_model = KNN(train_imgs, train_class_labels, options)
+
+                print("Dist ->", d,
+                      "Quadrants ->", q,
+                      "k ->", k + 1)
+
+                Get_shape_accuracy(
+                    knn_model,
+                    test_imgs,
+                    test_class_labels,
+                    k + 1
+                )
+        
 
 def Get_shape_accuracy(knn, test_imgs, test_class_labels, k):
     
     # la IA intenta adivinar qué es cada prenda
+    start = time.time()
     predicciones = knn.predict(test_imgs, k)
-    
+    end = time.time()
     # contamos aciertos
     aciertos = 0
     total = len(test_class_labels)
@@ -23,7 +65,7 @@ def Get_shape_accuracy(knn, test_imgs, test_class_labels, k):
     
     nota = (aciertos / total) * 100
     
-    print("K =", k, ": Eficacia:", nota, "%")
+    print("K =", k, ": Eficacia:", nota, "%", "Time: ", end-start, " s")
 
 def Get_color_accuracy(lista_recortes, color_labels, options, K):
     total = len(lista_recortes)
@@ -45,13 +87,13 @@ def Get_color_accuracy(lista_recortes, color_labels, options, K):
 
 def Kmeans_statistics(k_max, images, options):
     #listas para guardar resultados Kmeans
-    lista_wcd = []
+    lista_stat = []
     lista_iter = []
     lista_time = []
 
     for k in range(2, k_max + 1):
 
-        wcd_total = 0
+        stat_total = 0
         iter_total = 0
         time_total = 0
 
@@ -62,16 +104,20 @@ def Kmeans_statistics(k_max, images, options):
             start = time.time()
             mi_km.fit()
             end = time.time()
-            
-            wcd_total += mi_km.withinClassDistance()
+            if options["stat"] == "WCD":
+                stat_total += mi_km.withinClassDistance()
+            elif options["stat"] == "ICD":
+                stat_total += mi_km.interClassDistanceCentroids()
+            elif options["stat"] == "Fisher":
+                stat_total += mi_km.fisherDiscriminant()
             iter_total += mi_km.num_iter
             time_total += (end - start)
 
-        lista_wcd.append(wcd_total / len(images))
+        lista_stat.append(stat_total / len(images))
         lista_iter.append(iter_total / len(images))
         lista_time.append(time_total / len(images))
 
-    return lista_wcd, lista_iter, lista_time
+    return lista_stat, lista_iter, lista_time
 
 if __name__ == '__main__':
 
@@ -83,15 +129,28 @@ if __name__ == '__main__':
     imgs, class_labels, color_labels, upper, lower, background = read_extended_dataset()
     cropped_images = crop_images(imgs, upper, lower)
 
+    options = {
+        "knn_size_data": (40,40),
+        "f_space": "mean",
+        "quadrants": 20,
+        "dist" : "euclidean"
+    }
+
+    testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels)
     print("\n[TEST 1] Get_shape_accuracy, Eficacia (KNN):")
-    knn_model = KNN(train_imgs, train_class_labels)
+    knn_model = KNN(train_imgs, train_class_labels, options)
     Get_shape_accuracy(knn_model, test_imgs, test_class_labels, 4)
 
     print("\n[TEST 2] Get_color_accuracy, Precisión de Color (K-Means):")
-    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'first'}, K = 4)
+    options={'km_init': 'first'}
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options=options, K = 4)
     print(f"ÍNDICE DE CALIDAD: {acc_color}%")
 
     print("\n[TEST 3] Kmeans_statistics (WCD):")
-    wcd, iters, t = Kmeans_statistics(8, cropped_images, options={'km_init': 'first'})
-    for i in range(len(wcd)):
-        print(f"K={i+2} | WCD={wcd[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
+    options={
+        'km_init': 'first',
+        "stat": "ICD"
+        }
+    stat, iters, t = Kmeans_statistics(8, cropped_images, options=options)
+    for i in range(len(stat)):
+        print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
