@@ -22,7 +22,7 @@ def testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels):
     X_train_base = knn_base.train_data
 
 
-    for k in range(8):
+    for k in range(3, 8):
 
         for d in dist_list:
 
@@ -136,16 +136,29 @@ if __name__ == '__main__':
         "dist" : "euclidean"
     }
 
+    '''
+    
     testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels)
+
+    '''
+
     print("\n[TEST 1] Get_shape_accuracy, Eficacia (KNN):")
     knn_model = KNN(train_imgs, train_class_labels, options)
     Get_shape_accuracy(knn_model, test_imgs, test_class_labels, 4)
 
+    
+
+    '''
+
     print("\n[TEST 2] Get_color_accuracy, Precisión de Color (K-Means):")
     options={'km_init': 'first'}
-    acc_color = Get_color_accuracy(cropped_images, color_labels, options=options, K = 4)
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options=options, K = 3)
     print(f"ÍNDICE DE CALIDAD: {acc_color}%")
 
+    '''
+    
+    '''
+    
     print("\n[TEST 3] Kmeans_statistics (WCD):")
     options={
         'km_init': 'first',
@@ -154,3 +167,5 @@ if __name__ == '__main__':
     stat, iters, t = Kmeans_statistics(8, cropped_images, options=options)
     for i in range(len(stat)):
         print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
+        
+    '''
