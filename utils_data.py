@@ -7,36 +7,6 @@ matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
 import math
 
-def plot_pca(knn_model, train_class_labels):
-    # train_data ya tiene las features procesadas según las options
-    flat_data = knn_model.train_data  # ya es PxD, no hace falta aplanar
-    print(f"Shape train_data: {flat_data.shape}")  # debug
-
-    # Centrar
-    flat_data_centered = flat_data - flat_data.mean(axis=0)
-
-    # PCA con numpy
-    cov = np.cov(flat_data_centered.T)
-    print(f"Shape cov: {cov.shape}")  # debug
-    eigenvalues, eigenvectors = np.linalg.eigh(cov)
-    print(f"Num eigenvalues: {len(eigenvalues)}")  # debug
-    top2 = eigenvectors[:, np.argsort(eigenvalues)[::-1][:2]]
-    data_2d = flat_data_centered @ top2
-    print(f"Shape top2: {top2.shape}")  # debug
-    print(f"Shape data_2d: {data_2d.shape}")  # debug
-
-    # Plot
-    classes = np.unique(train_class_labels)
-    colors = plt.cm.tab10(np.linspace(0, 1, len(classes)))
-
-    plt.figure(figsize=(10, 8))
-    for cls, color in zip(classes, colors):
-        mask = train_class_labels == cls
-        plt.scatter(data_2d[mask, 0], data_2d[mask, 1], label=cls, color=color, alpha=0.6, s=40)
-
-    plt.legend()
-    plt.title(f'PCA Train Data — f_space: {knn_model.options["f_space"]}, quadrants: {knn_model.options["quadrants"]}')
-    plt.show()
 
 def crop_images(images, upper, lower):
     cropped_image = []
