@@ -4,12 +4,12 @@ __group__ = 'TU_GRUPO'
 import numpy as np
 from KNN import KNN
 from Kmeans import KMeans, get_colors
-from utils_data import read_dataset, read_extended_dataset, crop_images, visualize_retrieval
+from utils_data import read_dataset, read_extended_dataset, crop_images, visualize_retrieval, visualize_k_means
 import time
 
-def testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels):
+def testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels): #funcion propia no se entrega
 
-    dist_list = ['euclidean', 'cityblock', 'cosine']
+    dist_list = ['euclidean', 'cityblock']
 
 
     base_options = {
@@ -121,6 +121,8 @@ def Kmeans_statistics(k_max, images, options):
 
 if __name__ == '__main__':
 
+    '''
+
     train_imgs, train_class_labels, train_color_labels, test_imgs, test_class_labels, \
         test_color_labels = read_dataset(root_folder='./images/', gt_json='./images/gt.json')
 
@@ -132,40 +134,72 @@ if __name__ == '__main__':
     options = {
         "knn_size_data": (40,40),
         "f_space": "mean",
-        "quadrants": 20,
+        "quadrants": 40,
         "dist" : "euclidean"
     }
 
-    '''
+
+    km = KMeans(cropped_images[3], 4, {'km_init': 'custom2'})
+    km.fit()
+    print(color_labels[3])
+    print(get_colors(km.centroids))
+    visualize_k_means(km, cropped_images[3].shape)
+
     
     testKNN(train_imgs, train_class_labels, test_imgs, test_class_labels)
 
-    '''
-
     print("\n[TEST 1] Get_shape_accuracy, Eficacia (KNN):")
     knn_model = KNN(train_imgs, train_class_labels, options)
+    plot_pca(knn_model, train_class_labels)
     Get_shape_accuracy(knn_model, test_imgs, test_class_labels, 4)
-
-    
-
-    '''
 
     print("\n[TEST 2] Get_color_accuracy, Precisión de Color (K-Means):")
     options={'km_init': 'first'}
-    acc_color = Get_color_accuracy(cropped_images, color_labels, options=options, K = 3)
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options=options, K = 4)
+    print(f"ÍNDICE DE CALIDAD, first: {acc_color}%")
+
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'random'}, K = 4)
+    print(f"ÍNDICE DE CALIDAD, random: {acc_color}%")
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'custom'}, K = 4)
+    print(f"ÍNDICE DE CALIDAD, equally: {acc_color}%")
+    acc_color = Get_color_accuracy(cropped_images, color_labels, options={'km_init': 'custom2'}, K = 4)
+    print(f"ÍNDICE DE CALIDAD, kmeans++: {acc_color}%")
+    
     print(f"ÍNDICE DE CALIDAD: {acc_color}%")
 
-    '''
-    
-    '''
-    
     print("\n[TEST 3] Kmeans_statistics (WCD):")
     options={
         'km_init': 'first',
-        "stat": "ICD"
+        "stat": "WCD"
         }
-    stat, iters, t = Kmeans_statistics(8, cropped_images, options=options)
+    stat, iters, t = Kmeans_statistics(8, imgs, options=options)
+    print("First: ")
     for i in range(len(stat)):
         print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
-        
+        options={
+        'km_init': 'random',
+        "stat": "WCD"
+        }
+    stat, iters, t = Kmeans_statistics(8, imgs, options=options)
+    print("Random: ")
+    for i in range(len(stat)):
+        print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
+        options={
+        'km_init': 'custom',
+        "stat": "WCD"
+        }
+    stat, iters, t = Kmeans_statistics(8, imgs, options=options)
+    print("Equally: ")
+    for i in range(len(stat)):
+        print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
+        options={
+        'km_init': 'custom2',
+        "stat": "WCD"
+        }
+    stat, iters, t = Kmeans_statistics(8, imgs, options=options)
+    print("Kmeans++: ")
+    for i in range(len(stat)):
+        print(f"K={i+2} | {options["stat"]}={stat[i]:.2f} | Time={t[i]:.4f}s | Iter={iters[i]:.1f}")
     '''
+    
+        
