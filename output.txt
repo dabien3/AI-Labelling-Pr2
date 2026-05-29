@@ -1,0 +1,1488 @@
+Dist -> euclidean Quadrants -> 10 k -> 1
+K = 1 : Eficacia: 92.12690951821386 % Time:  0.4654991626739502  s
+Dist -> euclidean Quadrants -> 11 k -> 1
+K = 1 : Eficacia: 92.00940070505288 % Time:  0.5499951839447021  s
+Dist -> euclidean Quadrants -> 12 k -> 1
+K = 1 : Eficacia: 92.24441833137486 % Time:  0.6504149436950684  s
+Dist -> euclidean Quadrants -> 13 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  0.7623798847198486  s
+Dist -> euclidean Quadrants -> 14 k -> 1
+K = 1 : Eficacia: 90.48178613396006 % Time:  0.8795192241668701  s
+Dist -> euclidean Quadrants -> 15 k -> 1
+K = 1 : Eficacia: 91.30434782608695 % Time:  0.993842601776123  s
+Dist -> euclidean Quadrants -> 16 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  1.1347877979278564  s
+Dist -> euclidean Quadrants -> 17 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  1.271904706954956  s
+Dist -> euclidean Quadrants -> 18 k -> 1
+K = 1 : Eficacia: 92.24441833137486 % Time:  1.4227516651153564  s
+Dist -> euclidean Quadrants -> 19 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  1.5678274631500244  s
+Dist -> euclidean Quadrants -> 20 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  1.8035764694213867  s
+Dist -> euclidean Quadrants -> 21 k -> 1
+K = 1 : Eficacia: 83.07873090481786 % Time:  1.9100558757781982  s
+Dist -> euclidean Quadrants -> 22 k -> 1
+K = 1 : Eficacia: 84.4888366627497 % Time:  2.1515650749206543  s
+Dist -> euclidean Quadrants -> 23 k -> 1
+K = 1 : Eficacia: 85.66392479435959 % Time:  2.2743794918060303  s
+Dist -> euclidean Quadrants -> 24 k -> 1
+K = 1 : Eficacia: 85.07638072855464 % Time:  2.453059434890747  s
+Dist -> euclidean Quadrants -> 25 k -> 1
+K = 1 : Eficacia: 86.48648648648648 % Time:  2.672244071960449  s
+Dist -> euclidean Quadrants -> 26 k -> 1
+K = 1 : Eficacia: 88.48413631022328 % Time:  2.8844826221466064  s
+Dist -> euclidean Quadrants -> 27 k -> 1
+K = 1 : Eficacia: 88.36662749706228 % Time:  3.1122779846191406  s
+Dist -> euclidean Quadrants -> 28 k -> 1
+K = 1 : Eficacia: 90.0117508813161 % Time:  3.342677116394043  s
+Dist -> euclidean Quadrants -> 29 k -> 1
+K = 1 : Eficacia: 90.36427732079906 % Time:  3.6231157779693604  s
+Dist -> euclidean Quadrants -> 30 k -> 1
+K = 1 : Eficacia: 91.06933019976499 % Time:  3.8822271823883057  s
+Dist -> euclidean Quadrants -> 31 k -> 1
+K = 1 : Eficacia: 91.18683901292597 % Time:  4.1543357372283936  s
+Dist -> euclidean Quadrants -> 32 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  4.4466023445129395  s
+Dist -> euclidean Quadrants -> 33 k -> 1
+K = 1 : Eficacia: 92.00940070505288 % Time:  4.724031448364258  s
+Dist -> euclidean Quadrants -> 34 k -> 1
+K = 1 : Eficacia: 92.00940070505288 % Time:  5.019482851028442  s
+Dist -> euclidean Quadrants -> 35 k -> 1
+K = 1 : Eficacia: 92.00940070505288 % Time:  5.336674213409424  s
+Dist -> euclidean Quadrants -> 36 k -> 1
+K = 1 : Eficacia: 92.36192714453584 % Time:  5.611224412918091  s
+Dist -> euclidean Quadrants -> 37 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  5.940187215805054  s
+Dist -> euclidean Quadrants -> 38 k -> 1
+K = 1 : Eficacia: 92.8319623971798 % Time:  6.267507076263428  s
+Dist -> euclidean Quadrants -> 39 k -> 1
+K = 1 : Eficacia: 92.94947121034077 % Time:  6.590420722961426  s
+Dist -> euclidean Quadrants -> 40 k -> 1
+K = 1 : Eficacia: 93.06698002350177 % Time:  6.936343669891357  s
+Dist -> cityblock Quadrants -> 10 k -> 1
+K = 1 : Eficacia: 92.59694477085782 % Time:  0.49643540382385254  s
+Dist -> cityblock Quadrants -> 11 k -> 1
+K = 1 : Eficacia: 92.12690951821386 % Time:  0.5862307548522949  s
+Dist -> cityblock Quadrants -> 12 k -> 1
+K = 1 : Eficacia: 92.24441833137486 % Time:  0.6983411312103271  s
+Dist -> cityblock Quadrants -> 13 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  0.8149871826171875  s
+Dist -> cityblock Quadrants -> 14 k -> 1
+K = 1 : Eficacia: 89.89424206815512 % Time:  0.9443569183349609  s
+Dist -> cityblock Quadrants -> 15 k -> 1
+K = 1 : Eficacia: 89.89424206815512 % Time:  1.0797936916351318  s
+Dist -> cityblock Quadrants -> 16 k -> 1
+K = 1 : Eficacia: 91.06933019976499 % Time:  1.225907802581787  s
+Dist -> cityblock Quadrants -> 17 k -> 1
+K = 1 : Eficacia: 92.12690951821386 % Time:  1.384141445159912  s
+Dist -> cityblock Quadrants -> 18 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  1.5409231185913086  s
+Dist -> cityblock Quadrants -> 19 k -> 1
+K = 1 : Eficacia: 92.36192714453584 % Time:  1.7142441272735596  s
+Dist -> cityblock Quadrants -> 20 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  1.8852603435516357  s
+Dist -> cityblock Quadrants -> 21 k -> 1
+K = 1 : Eficacia: 84.13631022326675 % Time:  2.0657193660736084  s
+Dist -> cityblock Quadrants -> 22 k -> 1
+K = 1 : Eficacia: 83.78378378378379 % Time:  2.2717082500457764  s
+Dist -> cityblock Quadrants -> 23 k -> 1
+K = 1 : Eficacia: 85.31139835487662 % Time:  2.4806931018829346  s
+Dist -> cityblock Quadrants -> 24 k -> 1
+K = 1 : Eficacia: 86.25146886016452 % Time:  2.7091760635375977  s
+Dist -> cityblock Quadrants -> 25 k -> 1
+K = 1 : Eficacia: 86.83901292596946 % Time:  2.9242076873779297  s
+Dist -> cityblock Quadrants -> 26 k -> 1
+K = 1 : Eficacia: 88.2491186839013 % Time:  3.1719653606414795  s
+Dist -> cityblock Quadrants -> 27 k -> 1
+K = 1 : Eficacia: 89.07168037602821 % Time:  3.424929618835449  s
+Dist -> cityblock Quadrants -> 28 k -> 1
+K = 1 : Eficacia: 90.36427732079906 % Time:  3.6916816234588623  s
+Dist -> cityblock Quadrants -> 29 k -> 1
+K = 1 : Eficacia: 90.12925969447708 % Time:  3.971031427383423  s
+Dist -> cityblock Quadrants -> 30 k -> 1
+K = 1 : Eficacia: 90.59929494712104 % Time:  4.24612021446228  s
+Dist -> cityblock Quadrants -> 31 k -> 1
+K = 1 : Eficacia: 90.59929494712104 % Time:  4.541785955429077  s
+Dist -> cityblock Quadrants -> 32 k -> 1
+K = 1 : Eficacia: 91.06933019976499 % Time:  4.8309361934661865  s
+Dist -> cityblock Quadrants -> 33 k -> 1
+K = 1 : Eficacia: 91.18683901292597 % Time:  5.150335073471069  s
+Dist -> cityblock Quadrants -> 34 k -> 1
+K = 1 : Eficacia: 91.18683901292597 % Time:  5.458998680114746  s
+Dist -> cityblock Quadrants -> 35 k -> 1
+K = 1 : Eficacia: 91.30434782608695 % Time:  5.789561986923218  s
+Dist -> cityblock Quadrants -> 36 k -> 1
+K = 1 : Eficacia: 91.30434782608695 % Time:  6.169809341430664  s
+Dist -> cityblock Quadrants -> 37 k -> 1
+K = 1 : Eficacia: 91.53936545240893 % Time:  6.4790003299713135  s
+Dist -> cityblock Quadrants -> 38 k -> 1
+K = 1 : Eficacia: 91.42185663924795 % Time:  6.78729510307312  s
+Dist -> cityblock Quadrants -> 39 k -> 1
+K = 1 : Eficacia: 91.53936545240893 % Time:  7.149209499359131  s
+Dist -> cityblock Quadrants -> 40 k -> 1
+K = 1 : Eficacia: 91.53936545240893 % Time:  7.495381593704224  s
+Dist -> cosine Quadrants -> 10 k -> 1
+K = 1 : Eficacia: 92.00940070505288 % Time:  0.47095203399658203  s
+Dist -> cosine Quadrants -> 11 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  0.5545938014984131  s
+Dist -> cosine Quadrants -> 12 k -> 1
+K = 1 : Eficacia: 92.12690951821386 % Time:  0.6595957279205322  s
+Dist -> cosine Quadrants -> 13 k -> 1
+K = 1 : Eficacia: 92.59694477085782 % Time:  0.7701430320739746  s
+Dist -> cosine Quadrants -> 14 k -> 1
+K = 1 : Eficacia: 90.36427732079906 % Time:  0.889899492263794  s
+Dist -> cosine Quadrants -> 15 k -> 1
+K = 1 : Eficacia: 91.06933019976499 % Time:  1.0374059677124023  s
+Dist -> cosine Quadrants -> 16 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  1.176708459854126  s
+Dist -> cosine Quadrants -> 17 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  1.328434944152832  s
+Dist -> cosine Quadrants -> 18 k -> 1
+K = 1 : Eficacia: 92.36192714453584 % Time:  1.492460012435913  s
+Dist -> cosine Quadrants -> 19 k -> 1
+K = 1 : Eficacia: 92.36192714453584 % Time:  1.6698188781738281  s
+Dist -> cosine Quadrants -> 20 k -> 1
+K = 1 : Eficacia: 92.47943595769684 % Time:  1.8336865901947021  s
+Dist -> cosine Quadrants -> 21 k -> 1
+K = 1 : Eficacia: 83.78378378378379 % Time:  2.040733814239502  s
+Dist -> cosine Quadrants -> 22 k -> 1
+K = 1 : Eficacia: 84.25381903642773 % Time:  2.2255914211273193  s
+Dist -> cosine Quadrants -> 23 k -> 1
+K = 1 : Eficacia: 85.42890716803761 % Time:  2.405320405960083  s
+Dist -> cosine Quadrants -> 24 k -> 1
+K = 1 : Eficacia: 86.01645123384255 % Time:  2.6463658809661865  s
+Dist -> cosine Quadrants -> 25 k -> 1
+K = 1 : Eficacia: 86.60399529964748 % Time:  2.879814624786377  s
+Dist -> cosine Quadrants -> 26 k -> 1
+K = 1 : Eficacia: 88.48413631022328 % Time:  3.1197967529296875  s
+Dist -> cosine Quadrants -> 27 k -> 1
+K = 1 : Eficacia: 89.1891891891892 % Time:  3.376516819000244  s
+Dist -> cosine Quadrants -> 28 k -> 1
+K = 1 : Eficacia: 90.24676850763808 % Time:  3.6210379600524902  s
+Dist -> cosine Quadrants -> 29 k -> 1
+K = 1 : Eficacia: 90.83431257344301 % Time:  3.912156343460083  s
+Dist -> cosine Quadrants -> 30 k -> 1
+K = 1 : Eficacia: 91.30434782608695 % Time:  4.187013864517212  s
+Dist -> cosine Quadrants -> 31 k -> 1
+K = 1 : Eficacia: 91.53936545240893 % Time:  4.46856951713562  s
+Dist -> cosine Quadrants -> 32 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  4.743811368942261  s
+Dist -> cosine Quadrants -> 33 k -> 1
+K = 1 : Eficacia: 91.8918918918919 % Time:  5.084901332855225  s
+Dist -> cosine Quadrants -> 34 k -> 1
+K = 1 : Eficacia: 91.7743830787309 % Time:  5.391403913497925  s
+Dist -> cosine Quadrants -> 35 k -> 1
+K = 1 : Eficacia: 92.12690951821386 % Time:  5.728618144989014  s
+Dist -> cosine Quadrants -> 36 k -> 1
+K = 1 : Eficacia: 92.59694477085782 % Time:  6.021772146224976  s
+Dist -> cosine Quadrants -> 37 k -> 1
+K = 1 : Eficacia: 92.59694477085782 % Time:  6.380390644073486  s
+Dist -> cosine Quadrants -> 38 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  6.699429273605347  s
+Dist -> cosine Quadrants -> 39 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  7.063934564590454  s
+Dist -> cosine Quadrants -> 40 k -> 1
+K = 1 : Eficacia: 92.7144535840188 % Time:  7.415562152862549  s
+Dist -> euclidean Quadrants -> 10 k -> 2
+K = 2 : Eficacia: 92.12690951821386 % Time:  0.4681880474090576  s
+Dist -> euclidean Quadrants -> 11 k -> 2
+K = 2 : Eficacia: 92.00940070505288 % Time:  0.5491313934326172  s
+Dist -> euclidean Quadrants -> 12 k -> 2
+K = 2 : Eficacia: 92.24441833137486 % Time:  0.6505169868469238  s
+Dist -> euclidean Quadrants -> 13 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  0.7522621154785156  s
+Dist -> euclidean Quadrants -> 14 k -> 2
+K = 2 : Eficacia: 90.48178613396006 % Time:  0.8732039928436279  s
+Dist -> euclidean Quadrants -> 15 k -> 2
+K = 2 : Eficacia: 91.30434782608695 % Time:  0.9969041347503662  s
+Dist -> euclidean Quadrants -> 16 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  1.1205425262451172  s
+Dist -> euclidean Quadrants -> 17 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  1.2758212089538574  s
+Dist -> euclidean Quadrants -> 18 k -> 2
+K = 2 : Eficacia: 92.24441833137486 % Time:  1.4239957332611084  s
+Dist -> euclidean Quadrants -> 19 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  1.5715141296386719  s
+Dist -> euclidean Quadrants -> 20 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  1.7415826320648193  s
+Dist -> euclidean Quadrants -> 21 k -> 2
+K = 2 : Eficacia: 83.07873090481786 % Time:  1.894521713256836  s
+Dist -> euclidean Quadrants -> 22 k -> 2
+K = 2 : Eficacia: 84.4888366627497 % Time:  2.0732758045196533  s
+Dist -> euclidean Quadrants -> 23 k -> 2
+K = 2 : Eficacia: 85.66392479435959 % Time:  2.251727342605591  s
+Dist -> euclidean Quadrants -> 24 k -> 2
+K = 2 : Eficacia: 85.07638072855464 % Time:  2.472353458404541  s
+Dist -> euclidean Quadrants -> 25 k -> 2
+K = 2 : Eficacia: 86.48648648648648 % Time:  2.6632580757141113  s
+Dist -> euclidean Quadrants -> 26 k -> 2
+K = 2 : Eficacia: 88.48413631022328 % Time:  2.8803493976593018  s
+Dist -> euclidean Quadrants -> 27 k -> 2
+K = 2 : Eficacia: 88.36662749706228 % Time:  3.132510185241699  s
+Dist -> euclidean Quadrants -> 28 k -> 2
+K = 2 : Eficacia: 90.0117508813161 % Time:  3.378098487854004  s
+Dist -> euclidean Quadrants -> 29 k -> 2
+K = 2 : Eficacia: 90.36427732079906 % Time:  3.6301231384277344  s
+Dist -> euclidean Quadrants -> 30 k -> 2
+K = 2 : Eficacia: 91.06933019976499 % Time:  3.8969433307647705  s
+Dist -> euclidean Quadrants -> 31 k -> 2
+K = 2 : Eficacia: 91.18683901292597 % Time:  4.170669078826904  s
+Dist -> euclidean Quadrants -> 32 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  4.4138343334198  s
+Dist -> euclidean Quadrants -> 33 k -> 2
+K = 2 : Eficacia: 92.00940070505288 % Time:  4.70421838760376  s
+Dist -> euclidean Quadrants -> 34 k -> 2
+K = 2 : Eficacia: 92.00940070505288 % Time:  5.227290868759155  s
+Dist -> euclidean Quadrants -> 35 k -> 2
+K = 2 : Eficacia: 92.00940070505288 % Time:  5.4574644565582275  s
+Dist -> euclidean Quadrants -> 36 k -> 2
+K = 2 : Eficacia: 92.36192714453584 % Time:  5.856300115585327  s
+Dist -> euclidean Quadrants -> 37 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  6.121814966201782  s
+Dist -> euclidean Quadrants -> 38 k -> 2
+K = 2 : Eficacia: 92.8319623971798 % Time:  6.418102741241455  s
+Dist -> euclidean Quadrants -> 39 k -> 2
+K = 2 : Eficacia: 92.94947121034077 % Time:  6.770959138870239  s
+Dist -> euclidean Quadrants -> 40 k -> 2
+K = 2 : Eficacia: 93.06698002350177 % Time:  6.987091302871704  s
+Dist -> cityblock Quadrants -> 10 k -> 2
+K = 2 : Eficacia: 92.59694477085782 % Time:  0.4901125431060791  s
+Dist -> cityblock Quadrants -> 11 k -> 2
+K = 2 : Eficacia: 92.12690951821386 % Time:  0.5841939449310303  s
+Dist -> cityblock Quadrants -> 12 k -> 2
+K = 2 : Eficacia: 92.24441833137486 % Time:  0.6964893341064453  s
+Dist -> cityblock Quadrants -> 13 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  0.8133664131164551  s
+Dist -> cityblock Quadrants -> 14 k -> 2
+K = 2 : Eficacia: 89.89424206815512 % Time:  0.9523265361785889  s
+Dist -> cityblock Quadrants -> 15 k -> 2
+K = 2 : Eficacia: 89.89424206815512 % Time:  1.081590175628662  s
+Dist -> cityblock Quadrants -> 16 k -> 2
+K = 2 : Eficacia: 91.06933019976499 % Time:  1.2209205627441406  s
+Dist -> cityblock Quadrants -> 17 k -> 2
+K = 2 : Eficacia: 92.12690951821386 % Time:  1.382725477218628  s
+Dist -> cityblock Quadrants -> 18 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  1.534576654434204  s
+Dist -> cityblock Quadrants -> 19 k -> 2
+K = 2 : Eficacia: 92.36192714453584 % Time:  1.7166707515716553  s
+Dist -> cityblock Quadrants -> 20 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  1.8860301971435547  s
+Dist -> cityblock Quadrants -> 21 k -> 2
+K = 2 : Eficacia: 84.13631022326675 % Time:  2.0618786811828613  s
+Dist -> cityblock Quadrants -> 22 k -> 2
+K = 2 : Eficacia: 83.78378378378379 % Time:  2.2689759731292725  s
+Dist -> cityblock Quadrants -> 23 k -> 2
+K = 2 : Eficacia: 85.31139835487662 % Time:  2.480100631713867  s
+Dist -> cityblock Quadrants -> 24 k -> 2
+K = 2 : Eficacia: 86.25146886016452 % Time:  2.7042486667633057  s
+Dist -> cityblock Quadrants -> 25 k -> 2
+K = 2 : Eficacia: 86.83901292596946 % Time:  2.9448728561401367  s
+Dist -> cityblock Quadrants -> 26 k -> 2
+K = 2 : Eficacia: 88.2491186839013 % Time:  3.214400291442871  s
+Dist -> cityblock Quadrants -> 27 k -> 2
+K = 2 : Eficacia: 89.07168037602821 % Time:  3.5507097244262695  s
+Dist -> cityblock Quadrants -> 28 k -> 2
+K = 2 : Eficacia: 90.36427732079906 % Time:  3.699455499649048  s
+Dist -> cityblock Quadrants -> 29 k -> 2
+K = 2 : Eficacia: 90.12925969447708 % Time:  3.999593496322632  s
+Dist -> cityblock Quadrants -> 30 k -> 2
+K = 2 : Eficacia: 90.59929494712104 % Time:  4.26547646522522  s
+Dist -> cityblock Quadrants -> 31 k -> 2
+K = 2 : Eficacia: 90.59929494712104 % Time:  4.560462713241577  s
+Dist -> cityblock Quadrants -> 32 k -> 2
+K = 2 : Eficacia: 91.06933019976499 % Time:  4.887969255447388  s
+Dist -> cityblock Quadrants -> 33 k -> 2
+K = 2 : Eficacia: 91.18683901292597 % Time:  5.1694135665893555  s
+Dist -> cityblock Quadrants -> 34 k -> 2
+K = 2 : Eficacia: 91.18683901292597 % Time:  5.510853290557861  s
+Dist -> cityblock Quadrants -> 35 k -> 2
+K = 2 : Eficacia: 91.30434782608695 % Time:  5.8449952602386475  s
+Dist -> cityblock Quadrants -> 36 k -> 2
+K = 2 : Eficacia: 91.30434782608695 % Time:  6.145482778549194  s
+Dist -> cityblock Quadrants -> 37 k -> 2
+K = 2 : Eficacia: 91.53936545240893 % Time:  6.497727632522583  s
+Dist -> cityblock Quadrants -> 38 k -> 2
+K = 2 : Eficacia: 91.42185663924795 % Time:  6.8314433097839355  s
+Dist -> cityblock Quadrants -> 39 k -> 2
+K = 2 : Eficacia: 91.53936545240893 % Time:  7.151946067810059  s
+Dist -> cityblock Quadrants -> 40 k -> 2
+K = 2 : Eficacia: 91.53936545240893 % Time:  7.724599838256836  s
+Dist -> cosine Quadrants -> 10 k -> 2
+K = 2 : Eficacia: 92.00940070505288 % Time:  0.4698212146759033  s
+Dist -> cosine Quadrants -> 11 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  0.5716257095336914  s
+Dist -> cosine Quadrants -> 12 k -> 2
+K = 2 : Eficacia: 92.12690951821386 % Time:  0.663935661315918  s
+Dist -> cosine Quadrants -> 13 k -> 2
+K = 2 : Eficacia: 92.59694477085782 % Time:  0.7919485569000244  s
+Dist -> cosine Quadrants -> 14 k -> 2
+K = 2 : Eficacia: 90.36427732079906 % Time:  0.925661563873291  s
+Dist -> cosine Quadrants -> 15 k -> 2
+K = 2 : Eficacia: 91.06933019976499 % Time:  1.0571708679199219  s
+Dist -> cosine Quadrants -> 16 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  1.1857593059539795  s
+Dist -> cosine Quadrants -> 17 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  1.3217105865478516  s
+Dist -> cosine Quadrants -> 18 k -> 2
+K = 2 : Eficacia: 92.36192714453584 % Time:  1.4900188446044922  s
+Dist -> cosine Quadrants -> 19 k -> 2
+K = 2 : Eficacia: 92.36192714453584 % Time:  1.6489794254302979  s
+Dist -> cosine Quadrants -> 20 k -> 2
+K = 2 : Eficacia: 92.47943595769684 % Time:  1.8374004364013672  s
+Dist -> cosine Quadrants -> 21 k -> 2
+K = 2 : Eficacia: 83.78378378378379 % Time:  2.020799160003662  s
+Dist -> cosine Quadrants -> 22 k -> 2
+K = 2 : Eficacia: 84.25381903642773 % Time:  2.2105281352996826  s
+Dist -> cosine Quadrants -> 23 k -> 2
+K = 2 : Eficacia: 85.42890716803761 % Time:  2.4675772190093994  s
+Dist -> cosine Quadrants -> 24 k -> 2
+K = 2 : Eficacia: 86.01645123384255 % Time:  2.6974475383758545  s
+Dist -> cosine Quadrants -> 25 k -> 2
+K = 2 : Eficacia: 86.60399529964748 % Time:  2.8659656047821045  s
+Dist -> cosine Quadrants -> 26 k -> 2
+K = 2 : Eficacia: 88.48413631022328 % Time:  3.1271414756774902  s
+Dist -> cosine Quadrants -> 27 k -> 2
+K = 2 : Eficacia: 89.1891891891892 % Time:  3.392944574356079  s
+Dist -> cosine Quadrants -> 28 k -> 2
+K = 2 : Eficacia: 90.24676850763808 % Time:  3.651320219039917  s
+Dist -> cosine Quadrants -> 29 k -> 2
+K = 2 : Eficacia: 90.83431257344301 % Time:  3.914000988006592  s
+Dist -> cosine Quadrants -> 30 k -> 2
+K = 2 : Eficacia: 91.30434782608695 % Time:  4.212097883224487  s
+Dist -> cosine Quadrants -> 31 k -> 2
+K = 2 : Eficacia: 91.53936545240893 % Time:  4.4886651039123535  s
+Dist -> cosine Quadrants -> 32 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  4.76663875579834  s
+Dist -> cosine Quadrants -> 33 k -> 2
+K = 2 : Eficacia: 91.8918918918919 % Time:  5.133406162261963  s
+Dist -> cosine Quadrants -> 34 k -> 2
+K = 2 : Eficacia: 91.7743830787309 % Time:  5.438418388366699  s
+Dist -> cosine Quadrants -> 35 k -> 2
+K = 2 : Eficacia: 92.12690951821386 % Time:  5.754109621047974  s
+Dist -> cosine Quadrants -> 36 k -> 2
+K = 2 : Eficacia: 92.59694477085782 % Time:  6.386673450469971  s
+Dist -> cosine Quadrants -> 37 k -> 2
+K = 2 : Eficacia: 92.59694477085782 % Time:  6.42546010017395  s
+Dist -> cosine Quadrants -> 38 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  6.753490447998047  s
+Dist -> cosine Quadrants -> 39 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  7.077533721923828  s
+Dist -> cosine Quadrants -> 40 k -> 2
+K = 2 : Eficacia: 92.7144535840188 % Time:  7.429448127746582  s
+Dist -> euclidean Quadrants -> 10 k -> 3
+K = 3 : Eficacia: 91.06933019976499 % Time:  0.4559628963470459  s
+Dist -> euclidean Quadrants -> 11 k -> 3
+K = 3 : Eficacia: 90.36427732079906 % Time:  0.5433928966522217  s
+Dist -> euclidean Quadrants -> 12 k -> 3
+K = 3 : Eficacia: 92.00940070505288 % Time:  0.6528346538543701  s
+Dist -> euclidean Quadrants -> 13 k -> 3
+K = 3 : Eficacia: 92.00940070505288 % Time:  0.7573099136352539  s
+Dist -> euclidean Quadrants -> 14 k -> 3
+K = 3 : Eficacia: 87.66157461809637 % Time:  0.8712308406829834  s
+Dist -> euclidean Quadrants -> 15 k -> 3
+K = 3 : Eficacia: 89.54171562867215 % Time:  0.9928419589996338  s
+Dist -> euclidean Quadrants -> 16 k -> 3
+K = 3 : Eficacia: 90.48178613396006 % Time:  1.1199836730957031  s
+Dist -> euclidean Quadrants -> 17 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  1.25846266746521  s
+Dist -> euclidean Quadrants -> 18 k -> 3
+K = 3 : Eficacia: 90.83431257344301 % Time:  1.4121878147125244  s
+Dist -> euclidean Quadrants -> 19 k -> 3
+K = 3 : Eficacia: 91.30434782608695 % Time:  1.5691611766815186  s
+Dist -> euclidean Quadrants -> 20 k -> 3
+K = 3 : Eficacia: 91.30434782608695 % Time:  1.7343237400054932  s
+Dist -> euclidean Quadrants -> 21 k -> 3
+K = 3 : Eficacia: 81.55111633372502 % Time:  1.9458482265472412  s
+Dist -> euclidean Quadrants -> 22 k -> 3
+K = 3 : Eficacia: 82.96122209165688 % Time:  2.137232542037964  s
+Dist -> euclidean Quadrants -> 23 k -> 3
+K = 3 : Eficacia: 83.6662749706228 % Time:  2.280428647994995  s
+Dist -> euclidean Quadrants -> 24 k -> 3
+K = 3 : Eficacia: 83.19623971797884 % Time:  2.6078250408172607  s
+Dist -> euclidean Quadrants -> 25 k -> 3
+K = 3 : Eficacia: 84.72385428907168 % Time:  2.771897315979004  s
+Dist -> euclidean Quadrants -> 26 k -> 3
+K = 3 : Eficacia: 85.89894242068155 % Time:  2.9384870529174805  s
+Dist -> euclidean Quadrants -> 27 k -> 3
+K = 3 : Eficacia: 86.60399529964748 % Time:  3.335844039916992  s
+Dist -> euclidean Quadrants -> 28 k -> 3
+K = 3 : Eficacia: 87.54406580493537 % Time:  3.6993324756622314  s
+Dist -> euclidean Quadrants -> 29 k -> 3
+K = 3 : Eficacia: 88.83666274970624 % Time:  4.006316900253296  s
+Dist -> euclidean Quadrants -> 30 k -> 3
+K = 3 : Eficacia: 89.07168037602821 % Time:  4.148368835449219  s
+Dist -> euclidean Quadrants -> 31 k -> 3
+K = 3 : Eficacia: 89.77673325499413 % Time:  4.373687744140625  s
+Dist -> euclidean Quadrants -> 32 k -> 3
+K = 3 : Eficacia: 90.48178613396006 % Time:  4.5058770179748535  s
+Dist -> euclidean Quadrants -> 33 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  4.926497459411621  s
+Dist -> euclidean Quadrants -> 34 k -> 3
+K = 3 : Eficacia: 91.18683901292597 % Time:  5.113534688949585  s
+Dist -> euclidean Quadrants -> 35 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  5.349982738494873  s
+Dist -> euclidean Quadrants -> 36 k -> 3
+K = 3 : Eficacia: 90.83431257344301 % Time:  5.651053190231323  s
+Dist -> euclidean Quadrants -> 37 k -> 3
+K = 3 : Eficacia: 90.951821386604 % Time:  5.993353605270386  s
+Dist -> euclidean Quadrants -> 38 k -> 3
+K = 3 : Eficacia: 91.18683901292597 % Time:  6.305586099624634  s
+Dist -> euclidean Quadrants -> 39 k -> 3
+K = 3 : Eficacia: 91.18683901292597 % Time:  6.648047685623169  s
+Dist -> euclidean Quadrants -> 40 k -> 3
+K = 3 : Eficacia: 91.30434782608695 % Time:  6.974152326583862  s
+Dist -> cityblock Quadrants -> 10 k -> 3
+K = 3 : Eficacia: 91.42185663924795 % Time:  0.4964029788970947  s
+Dist -> cityblock Quadrants -> 11 k -> 3
+K = 3 : Eficacia: 90.48178613396006 % Time:  0.5860869884490967  s
+Dist -> cityblock Quadrants -> 12 k -> 3
+K = 3 : Eficacia: 90.36427732079906 % Time:  0.7149455547332764  s
+Dist -> cityblock Quadrants -> 13 k -> 3
+K = 3 : Eficacia: 91.06933019976499 % Time:  0.8175156116485596  s
+Dist -> cityblock Quadrants -> 14 k -> 3
+K = 3 : Eficacia: 87.19153936545241 % Time:  0.9454755783081055  s
+Dist -> cityblock Quadrants -> 15 k -> 3
+K = 3 : Eficacia: 88.83666274970624 % Time:  1.081014633178711  s
+Dist -> cityblock Quadrants -> 16 k -> 3
+K = 3 : Eficacia: 89.54171562867215 % Time:  1.219670057296753  s
+Dist -> cityblock Quadrants -> 17 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  1.3735594749450684  s
+Dist -> cityblock Quadrants -> 18 k -> 3
+K = 3 : Eficacia: 91.06933019976499 % Time:  1.5402767658233643  s
+Dist -> cityblock Quadrants -> 19 k -> 3
+K = 3 : Eficacia: 91.06933019976499 % Time:  1.7732739448547363  s
+Dist -> cityblock Quadrants -> 20 k -> 3
+K = 3 : Eficacia: 90.951821386604 % Time:  1.9149398803710938  s
+Dist -> cityblock Quadrants -> 21 k -> 3
+K = 3 : Eficacia: 80.72855464159812 % Time:  2.1316773891448975  s
+Dist -> cityblock Quadrants -> 22 k -> 3
+K = 3 : Eficacia: 82.25616921269095 % Time:  2.3296091556549072  s
+Dist -> cityblock Quadrants -> 23 k -> 3
+K = 3 : Eficacia: 82.37367802585194 % Time:  2.549837350845337  s
+Dist -> cityblock Quadrants -> 24 k -> 3
+K = 3 : Eficacia: 83.6662749706228 % Time:  2.722656011581421  s
+Dist -> cityblock Quadrants -> 25 k -> 3
+K = 3 : Eficacia: 84.25381903642773 % Time:  2.9466891288757324  s
+Dist -> cityblock Quadrants -> 26 k -> 3
+K = 3 : Eficacia: 86.48648648648648 % Time:  3.2069790363311768  s
+Dist -> cityblock Quadrants -> 27 k -> 3
+K = 3 : Eficacia: 86.95652173913044 % Time:  3.465991497039795  s
+Dist -> cityblock Quadrants -> 28 k -> 3
+K = 3 : Eficacia: 88.71915393654524 % Time:  3.7278244495391846  s
+Dist -> cityblock Quadrants -> 29 k -> 3
+K = 3 : Eficacia: 88.60164512338426 % Time:  4.005034446716309  s
+Dist -> cityblock Quadrants -> 30 k -> 3
+K = 3 : Eficacia: 89.1891891891892 % Time:  4.3246753215789795  s
+Dist -> cityblock Quadrants -> 31 k -> 3
+K = 3 : Eficacia: 89.77673325499413 % Time:  4.561737537384033  s
+Dist -> cityblock Quadrants -> 32 k -> 3
+K = 3 : Eficacia: 90.0117508813161 % Time:  4.949044942855835  s
+Dist -> cityblock Quadrants -> 33 k -> 3
+K = 3 : Eficacia: 90.24676850763808 % Time:  5.198932409286499  s
+Dist -> cityblock Quadrants -> 34 k -> 3
+K = 3 : Eficacia: 90.0117508813161 % Time:  5.49943208694458  s
+Dist -> cityblock Quadrants -> 35 k -> 3
+K = 3 : Eficacia: 90.36427732079906 % Time:  5.8404154777526855  s
+Dist -> cityblock Quadrants -> 36 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  6.158691644668579  s
+Dist -> cityblock Quadrants -> 37 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  6.510150909423828  s
+Dist -> cityblock Quadrants -> 38 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  6.8618292808532715  s
+Dist -> cityblock Quadrants -> 39 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  7.182222843170166  s
+Dist -> cityblock Quadrants -> 40 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  7.586911916732788  s
+Dist -> cosine Quadrants -> 10 k -> 3
+K = 3 : Eficacia: 90.83431257344301 % Time:  0.4669206142425537  s
+Dist -> cosine Quadrants -> 11 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  0.560858964920044  s
+Dist -> cosine Quadrants -> 12 k -> 3
+K = 3 : Eficacia: 92.24441833137486 % Time:  0.6647720336914062  s
+Dist -> cosine Quadrants -> 13 k -> 3
+K = 3 : Eficacia: 92.36192714453584 % Time:  0.7697427272796631  s
+Dist -> cosine Quadrants -> 14 k -> 3
+K = 3 : Eficacia: 87.77908343125735 % Time:  0.8901107311248779  s
+Dist -> cosine Quadrants -> 15 k -> 3
+K = 3 : Eficacia: 89.89424206815512 % Time:  1.0258147716522217  s
+Dist -> cosine Quadrants -> 16 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  1.1701734066009521  s
+Dist -> cosine Quadrants -> 17 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  1.3543040752410889  s
+Dist -> cosine Quadrants -> 18 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  1.6018187999725342  s
+Dist -> cosine Quadrants -> 19 k -> 3
+K = 3 : Eficacia: 90.951821386604 % Time:  1.7846484184265137  s
+Dist -> cosine Quadrants -> 20 k -> 3
+K = 3 : Eficacia: 91.18683901292597 % Time:  1.890491008758545  s
+Dist -> cosine Quadrants -> 21 k -> 3
+K = 3 : Eficacia: 81.66862514688601 % Time:  2.125991106033325  s
+Dist -> cosine Quadrants -> 22 k -> 3
+K = 3 : Eficacia: 82.37367802585194 % Time:  2.288651466369629  s
+Dist -> cosine Quadrants -> 23 k -> 3
+K = 3 : Eficacia: 82.7262044653349 % Time:  2.4883978366851807  s
+Dist -> cosine Quadrants -> 24 k -> 3
+K = 3 : Eficacia: 84.13631022326675 % Time:  2.684522867202759  s
+Dist -> cosine Quadrants -> 25 k -> 3
+K = 3 : Eficacia: 84.13631022326675 % Time:  2.9194858074188232  s
+Dist -> cosine Quadrants -> 26 k -> 3
+K = 3 : Eficacia: 85.19388954171563 % Time:  3.171639919281006  s
+Dist -> cosine Quadrants -> 27 k -> 3
+K = 3 : Eficacia: 86.48648648648648 % Time:  3.4875831604003906  s
+Dist -> cosine Quadrants -> 28 k -> 3
+K = 3 : Eficacia: 88.1316098707403 % Time:  3.6858937740325928  s
+Dist -> cosine Quadrants -> 29 k -> 3
+K = 3 : Eficacia: 88.83666274970624 % Time:  3.962050199508667  s
+Dist -> cosine Quadrants -> 30 k -> 3
+K = 3 : Eficacia: 89.42420681551117 % Time:  4.217249870300293  s
+Dist -> cosine Quadrants -> 31 k -> 3
+K = 3 : Eficacia: 90.24676850763808 % Time:  4.488062143325806  s
+Dist -> cosine Quadrants -> 32 k -> 3
+K = 3 : Eficacia: 90.83431257344301 % Time:  4.776342391967773  s
+Dist -> cosine Quadrants -> 33 k -> 3
+K = 3 : Eficacia: 90.36427732079906 % Time:  5.086093902587891  s
+Dist -> cosine Quadrants -> 34 k -> 3
+K = 3 : Eficacia: 90.36427732079906 % Time:  5.4084155559539795  s
+Dist -> cosine Quadrants -> 35 k -> 3
+K = 3 : Eficacia: 90.83431257344301 % Time:  5.737615585327148  s
+Dist -> cosine Quadrants -> 36 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  6.084649085998535  s
+Dist -> cosine Quadrants -> 37 k -> 3
+K = 3 : Eficacia: 90.59929494712104 % Time:  6.394344091415405  s
+Dist -> cosine Quadrants -> 38 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  6.707580089569092  s
+Dist -> cosine Quadrants -> 39 k -> 3
+K = 3 : Eficacia: 90.71680376028202 % Time:  7.029901742935181  s
+Dist -> cosine Quadrants -> 40 k -> 3
+K = 3 : Eficacia: 90.951821386604 % Time:  7.512631177902222  s
+Dist -> euclidean Quadrants -> 10 k -> 4
+K = 4 : Eficacia: 91.06933019976499 % Time:  0.46004605293273926  s
+Dist -> euclidean Quadrants -> 11 k -> 4
+K = 4 : Eficacia: 90.71680376028202 % Time:  0.5439164638519287  s
+Dist -> euclidean Quadrants -> 12 k -> 4
+K = 4 : Eficacia: 91.18683901292597 % Time:  0.6452231407165527  s
+Dist -> euclidean Quadrants -> 13 k -> 4
+K = 4 : Eficacia: 91.8918918918919 % Time:  0.7459607124328613  s
+Dist -> euclidean Quadrants -> 14 k -> 4
+K = 4 : Eficacia: 88.1316098707403 % Time:  0.8682155609130859  s
+Dist -> euclidean Quadrants -> 15 k -> 4
+K = 4 : Eficacia: 90.24676850763808 % Time:  0.9804742336273193  s
+Dist -> euclidean Quadrants -> 16 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  1.1362881660461426  s
+Dist -> euclidean Quadrants -> 17 k -> 4
+K = 4 : Eficacia: 91.06933019976499 % Time:  1.244013786315918  s
+Dist -> euclidean Quadrants -> 18 k -> 4
+K = 4 : Eficacia: 91.42185663924795 % Time:  1.3914031982421875  s
+Dist -> euclidean Quadrants -> 19 k -> 4
+K = 4 : Eficacia: 92.00940070505288 % Time:  1.5459873676300049  s
+Dist -> euclidean Quadrants -> 20 k -> 4
+K = 4 : Eficacia: 92.24441833137486 % Time:  1.7121968269348145  s
+Dist -> euclidean Quadrants -> 21 k -> 4
+K = 4 : Eficacia: 81.19858989424206 % Time:  1.8681933879852295  s
+Dist -> euclidean Quadrants -> 22 k -> 4
+K = 4 : Eficacia: 82.37367802585194 % Time:  2.0364997386932373  s
+Dist -> euclidean Quadrants -> 23 k -> 4
+K = 4 : Eficacia: 83.78378378378379 % Time:  2.2178990840911865  s
+Dist -> euclidean Quadrants -> 24 k -> 4
+K = 4 : Eficacia: 84.13631022326675 % Time:  2.4211881160736084  s
+Dist -> euclidean Quadrants -> 25 k -> 4
+K = 4 : Eficacia: 84.4888366627497 % Time:  2.6138055324554443  s
+Dist -> euclidean Quadrants -> 26 k -> 4
+K = 4 : Eficacia: 85.78143360752057 % Time:  2.840653419494629  s
+Dist -> euclidean Quadrants -> 27 k -> 4
+K = 4 : Eficacia: 87.3090481786134 % Time:  3.0661401748657227  s
+Dist -> euclidean Quadrants -> 28 k -> 4
+K = 4 : Eficacia: 88.60164512338426 % Time:  3.3205313682556152  s
+Dist -> euclidean Quadrants -> 29 k -> 4
+K = 4 : Eficacia: 88.83666274970624 % Time:  3.5747339725494385  s
+Dist -> euclidean Quadrants -> 30 k -> 4
+K = 4 : Eficacia: 89.07168037602821 % Time:  3.8299124240875244  s
+Dist -> euclidean Quadrants -> 31 k -> 4
+K = 4 : Eficacia: 89.65922444183315 % Time:  4.1103904247283936  s
+Dist -> euclidean Quadrants -> 32 k -> 4
+K = 4 : Eficacia: 90.951821386604 % Time:  4.389143705368042  s
+Dist -> euclidean Quadrants -> 33 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  4.661283254623413  s
+Dist -> euclidean Quadrants -> 34 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  4.92764687538147  s
+Dist -> euclidean Quadrants -> 35 k -> 4
+K = 4 : Eficacia: 91.06933019976499 % Time:  5.24232029914856  s
+Dist -> euclidean Quadrants -> 36 k -> 4
+K = 4 : Eficacia: 91.7743830787309 % Time:  5.5152623653411865  s
+Dist -> euclidean Quadrants -> 37 k -> 4
+K = 4 : Eficacia: 91.8918918918919 % Time:  5.852087020874023  s
+Dist -> euclidean Quadrants -> 38 k -> 4
+K = 4 : Eficacia: 92.12690951821386 % Time:  6.179599285125732  s
+Dist -> euclidean Quadrants -> 39 k -> 4
+K = 4 : Eficacia: 92.24441833137486 % Time:  6.48006534576416  s
+Dist -> euclidean Quadrants -> 40 k -> 4
+K = 4 : Eficacia: 92.36192714453584 % Time:  6.827622413635254  s
+Dist -> cityblock Quadrants -> 10 k -> 4
+K = 4 : Eficacia: 91.8918918918919 % Time:  0.4889650344848633  s
+Dist -> cityblock Quadrants -> 11 k -> 4
+K = 4 : Eficacia: 91.18683901292597 % Time:  0.5777969360351562  s
+Dist -> cityblock Quadrants -> 12 k -> 4
+K = 4 : Eficacia: 91.30434782608695 % Time:  0.6905019283294678  s
+Dist -> cityblock Quadrants -> 13 k -> 4
+K = 4 : Eficacia: 91.7743830787309 % Time:  0.8024125099182129  s
+Dist -> cityblock Quadrants -> 14 k -> 4
+K = 4 : Eficacia: 88.01410105757932 % Time:  0.931182861328125  s
+Dist -> cityblock Quadrants -> 15 k -> 4
+K = 4 : Eficacia: 89.30669800235017 % Time:  1.069047212600708  s
+Dist -> cityblock Quadrants -> 16 k -> 4
+K = 4 : Eficacia: 90.0117508813161 % Time:  1.2089407444000244  s
+Dist -> cityblock Quadrants -> 17 k -> 4
+K = 4 : Eficacia: 90.12925969447708 % Time:  1.3720715045928955  s
+Dist -> cityblock Quadrants -> 18 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  1.5301716327667236  s
+Dist -> cityblock Quadrants -> 19 k -> 4
+K = 4 : Eficacia: 91.53936545240893 % Time:  1.699988842010498  s
+Dist -> cityblock Quadrants -> 20 k -> 4
+K = 4 : Eficacia: 91.65687426556993 % Time:  1.865262746810913  s
+Dist -> cityblock Quadrants -> 21 k -> 4
+K = 4 : Eficacia: 82.25616921269095 % Time:  2.040600538253784  s
+Dist -> cityblock Quadrants -> 22 k -> 4
+K = 4 : Eficacia: 81.66862514688601 % Time:  2.234107494354248  s
+Dist -> cityblock Quadrants -> 23 k -> 4
+K = 4 : Eficacia: 83.07873090481786 % Time:  2.431635618209839  s
+Dist -> cityblock Quadrants -> 24 k -> 4
+K = 4 : Eficacia: 84.6063454759107 % Time:  2.655792236328125  s
+Dist -> cityblock Quadrants -> 25 k -> 4
+K = 4 : Eficacia: 84.95887191539366 % Time:  2.8921751976013184  s
+Dist -> cityblock Quadrants -> 26 k -> 4
+K = 4 : Eficacia: 87.42655699177439 % Time:  3.1215622425079346  s
+Dist -> cityblock Quadrants -> 27 k -> 4
+K = 4 : Eficacia: 88.1316098707403 % Time:  3.387711763381958  s
+Dist -> cityblock Quadrants -> 28 k -> 4
+K = 4 : Eficacia: 89.07168037602821 % Time:  3.6382694244384766  s
+Dist -> cityblock Quadrants -> 29 k -> 4
+K = 4 : Eficacia: 88.95417156286722 % Time:  4.002520561218262  s
+Dist -> cityblock Quadrants -> 30 k -> 4
+K = 4 : Eficacia: 89.77673325499413 % Time:  4.294132232666016  s
+Dist -> cityblock Quadrants -> 31 k -> 4
+K = 4 : Eficacia: 90.36427732079906 % Time:  4.475320339202881  s
+Dist -> cityblock Quadrants -> 32 k -> 4
+K = 4 : Eficacia: 90.24676850763808 % Time:  4.783295392990112  s
+Dist -> cityblock Quadrants -> 33 k -> 4
+K = 4 : Eficacia: 90.36427732079906 % Time:  5.075660705566406  s
+Dist -> cityblock Quadrants -> 34 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  5.393314838409424  s
+Dist -> cityblock Quadrants -> 35 k -> 4
+K = 4 : Eficacia: 90.951821386604 % Time:  5.697205305099487  s
+Dist -> cityblock Quadrants -> 36 k -> 4
+K = 4 : Eficacia: 91.06933019976499 % Time:  6.0312206745147705  s
+Dist -> cityblock Quadrants -> 37 k -> 4
+K = 4 : Eficacia: 91.30434782608695 % Time:  6.371225118637085  s
+Dist -> cityblock Quadrants -> 38 k -> 4
+K = 4 : Eficacia: 91.30434782608695 % Time:  6.693387269973755  s
+Dist -> cityblock Quadrants -> 39 k -> 4
+K = 4 : Eficacia: 91.30434782608695 % Time:  7.015937566757202  s
+Dist -> cityblock Quadrants -> 40 k -> 4
+K = 4 : Eficacia: 91.42185663924795 % Time:  7.383204936981201  s
+Dist -> cosine Quadrants -> 10 k -> 4
+K = 4 : Eficacia: 91.53936545240893 % Time:  0.46784281730651855  s
+Dist -> cosine Quadrants -> 11 k -> 4
+K = 4 : Eficacia: 91.06933019976499 % Time:  0.5490245819091797  s
+Dist -> cosine Quadrants -> 12 k -> 4
+K = 4 : Eficacia: 91.42185663924795 % Time:  0.6560304164886475  s
+Dist -> cosine Quadrants -> 13 k -> 4
+K = 4 : Eficacia: 92.24441833137486 % Time:  0.7643423080444336  s
+Dist -> cosine Quadrants -> 14 k -> 4
+K = 4 : Eficacia: 88.01410105757932 % Time:  0.8796052932739258  s
+Dist -> cosine Quadrants -> 15 k -> 4
+K = 4 : Eficacia: 89.89424206815512 % Time:  1.0126385688781738  s
+Dist -> cosine Quadrants -> 16 k -> 4
+K = 4 : Eficacia: 90.83431257344301 % Time:  1.1541905403137207  s
+Dist -> cosine Quadrants -> 17 k -> 4
+K = 4 : Eficacia: 90.951821386604 % Time:  1.3219268321990967  s
+Dist -> cosine Quadrants -> 18 k -> 4
+K = 4 : Eficacia: 91.53936545240893 % Time:  1.4829328060150146  s
+Dist -> cosine Quadrants -> 19 k -> 4
+K = 4 : Eficacia: 91.8918918918919 % Time:  1.6443698406219482  s
+Dist -> cosine Quadrants -> 20 k -> 4
+K = 4 : Eficacia: 92.12690951821386 % Time:  1.8309955596923828  s
+Dist -> cosine Quadrants -> 21 k -> 4
+K = 4 : Eficacia: 81.19858989424206 % Time:  1.993760585784912  s
+Dist -> cosine Quadrants -> 22 k -> 4
+K = 4 : Eficacia: 81.90364277320799 % Time:  2.1811676025390625  s
+Dist -> cosine Quadrants -> 23 k -> 4
+K = 4 : Eficacia: 83.43125734430082 % Time:  2.393733501434326  s
+Dist -> cosine Quadrants -> 24 k -> 4
+K = 4 : Eficacia: 84.01880141010577 % Time:  2.600965976715088  s
+Dist -> cosine Quadrants -> 25 k -> 4
+K = 4 : Eficacia: 84.84136310223266 % Time:  2.816387414932251  s
+Dist -> cosine Quadrants -> 26 k -> 4
+K = 4 : Eficacia: 86.13396004700353 % Time:  3.0554075241088867  s
+Dist -> cosine Quadrants -> 27 k -> 4
+K = 4 : Eficacia: 87.54406580493537 % Time:  3.3355822563171387  s
+Dist -> cosine Quadrants -> 28 k -> 4
+K = 4 : Eficacia: 89.42420681551117 % Time:  3.560353994369507  s
+Dist -> cosine Quadrants -> 29 k -> 4
+K = 4 : Eficacia: 89.07168037602821 % Time:  3.8692595958709717  s
+Dist -> cosine Quadrants -> 30 k -> 4
+K = 4 : Eficacia: 89.1891891891892 % Time:  4.132108926773071  s
+Dist -> cosine Quadrants -> 31 k -> 4
+K = 4 : Eficacia: 89.77673325499413 % Time:  4.399095773696899  s
+Dist -> cosine Quadrants -> 32 k -> 4
+K = 4 : Eficacia: 90.48178613396006 % Time:  4.756160020828247  s
+Dist -> cosine Quadrants -> 33 k -> 4
+K = 4 : Eficacia: 90.59929494712104 % Time:  4.9884278774261475  s
+Dist -> cosine Quadrants -> 34 k -> 4
+K = 4 : Eficacia: 90.48178613396006 % Time:  5.323304891586304  s
+Dist -> cosine Quadrants -> 35 k -> 4
+K = 4 : Eficacia: 90.71680376028202 % Time:  5.6838579177856445  s
+Dist -> cosine Quadrants -> 36 k -> 4
+K = 4 : Eficacia: 90.83431257344301 % Time:  6.216840028762817  s
+Dist -> cosine Quadrants -> 37 k -> 4
+K = 4 : Eficacia: 91.18683901292597 % Time:  6.3874452114105225  s
+Dist -> cosine Quadrants -> 38 k -> 4
+K = 4 : Eficacia: 91.42185663924795 % Time:  6.803518533706665  s
+Dist -> cosine Quadrants -> 39 k -> 4
+K = 4 : Eficacia: 91.65687426556993 % Time:  7.039157390594482  s
+Dist -> cosine Quadrants -> 40 k -> 4
+K = 4 : Eficacia: 91.65687426556993 % Time:  7.407582521438599  s
+Dist -> euclidean Quadrants -> 10 k -> 5
+K = 5 : Eficacia: 89.89424206815512 % Time:  0.4614138603210449  s
+Dist -> euclidean Quadrants -> 11 k -> 5
+K = 5 : Eficacia: 88.95417156286722 % Time:  0.551677942276001  s
+Dist -> euclidean Quadrants -> 12 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  0.6503772735595703  s
+Dist -> euclidean Quadrants -> 13 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  0.7668211460113525  s
+Dist -> euclidean Quadrants -> 14 k -> 5
+K = 5 : Eficacia: 87.77908343125735 % Time:  0.8705201148986816  s
+Dist -> euclidean Quadrants -> 15 k -> 5
+K = 5 : Eficacia: 89.30669800235017 % Time:  0.9931740760803223  s
+Dist -> euclidean Quadrants -> 16 k -> 5
+K = 5 : Eficacia: 89.07168037602821 % Time:  1.127446174621582  s
+Dist -> euclidean Quadrants -> 17 k -> 5
+K = 5 : Eficacia: 88.71915393654524 % Time:  1.262831211090088  s
+Dist -> euclidean Quadrants -> 18 k -> 5
+K = 5 : Eficacia: 89.42420681551117 % Time:  1.4207489490509033  s
+Dist -> euclidean Quadrants -> 19 k -> 5
+K = 5 : Eficacia: 89.65922444183315 % Time:  1.570338249206543  s
+Dist -> euclidean Quadrants -> 20 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  1.7302370071411133  s
+Dist -> euclidean Quadrants -> 21 k -> 5
+K = 5 : Eficacia: 80.0235017626322 % Time:  1.886396884918213  s
+Dist -> euclidean Quadrants -> 22 k -> 5
+K = 5 : Eficacia: 81.19858989424206 % Time:  2.063509464263916  s
+Dist -> euclidean Quadrants -> 23 k -> 5
+K = 5 : Eficacia: 83.31374853113984 % Time:  2.2497200965881348  s
+Dist -> euclidean Quadrants -> 24 k -> 5
+K = 5 : Eficacia: 82.25616921269095 % Time:  2.455181360244751  s
+Dist -> euclidean Quadrants -> 25 k -> 5
+K = 5 : Eficacia: 84.01880141010577 % Time:  2.648932695388794  s
+Dist -> euclidean Quadrants -> 26 k -> 5
+K = 5 : Eficacia: 85.19388954171563 % Time:  2.8719053268432617  s
+Dist -> euclidean Quadrants -> 27 k -> 5
+K = 5 : Eficacia: 85.54641598119859 % Time:  3.1082119941711426  s
+Dist -> euclidean Quadrants -> 28 k -> 5
+K = 5 : Eficacia: 87.07403055229143 % Time:  3.3329834938049316  s
+Dist -> euclidean Quadrants -> 29 k -> 5
+K = 5 : Eficacia: 87.89659224441834 % Time:  3.598750114440918  s
+Dist -> euclidean Quadrants -> 30 k -> 5
+K = 5 : Eficacia: 89.07168037602821 % Time:  3.856431007385254  s
+Dist -> euclidean Quadrants -> 31 k -> 5
+K = 5 : Eficacia: 89.1891891891892 % Time:  4.129346609115601  s
+Dist -> euclidean Quadrants -> 32 k -> 5
+K = 5 : Eficacia: 89.1891891891892 % Time:  4.439022779464722  s
+Dist -> euclidean Quadrants -> 33 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  4.695040702819824  s
+Dist -> euclidean Quadrants -> 34 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  4.972003936767578  s
+Dist -> euclidean Quadrants -> 35 k -> 5
+K = 5 : Eficacia: 89.65922444183315 % Time:  5.309503793716431  s
+Dist -> euclidean Quadrants -> 36 k -> 5
+K = 5 : Eficacia: 90.12925969447708 % Time:  5.8078272342681885  s
+Dist -> euclidean Quadrants -> 37 k -> 5
+K = 5 : Eficacia: 89.89424206815512 % Time:  6.174506187438965  s
+Dist -> euclidean Quadrants -> 38 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  6.671866178512573  s
+Dist -> euclidean Quadrants -> 39 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  6.958805322647095  s
+Dist -> euclidean Quadrants -> 40 k -> 5
+K = 5 : Eficacia: 90.48178613396006 % Time:  7.231364965438843  s
+Dist -> cityblock Quadrants -> 10 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  0.5090527534484863  s
+Dist -> cityblock Quadrants -> 11 k -> 5
+K = 5 : Eficacia: 89.65922444183315 % Time:  0.6115403175354004  s
+Dist -> cityblock Quadrants -> 12 k -> 5
+K = 5 : Eficacia: 90.12925969447708 % Time:  0.7309474945068359  s
+Dist -> cityblock Quadrants -> 13 k -> 5
+K = 5 : Eficacia: 90.48178613396006 % Time:  0.8519151210784912  s
+Dist -> cityblock Quadrants -> 14 k -> 5
+K = 5 : Eficacia: 87.07403055229143 % Time:  0.9793229103088379  s
+Dist -> cityblock Quadrants -> 15 k -> 5
+K = 5 : Eficacia: 88.60164512338426 % Time:  1.119208812713623  s
+Dist -> cityblock Quadrants -> 16 k -> 5
+K = 5 : Eficacia: 89.07168037602821 % Time:  1.2670068740844727  s
+Dist -> cityblock Quadrants -> 17 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  1.4205961227416992  s
+Dist -> cityblock Quadrants -> 18 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  1.5926518440246582  s
+Dist -> cityblock Quadrants -> 19 k -> 5
+K = 5 : Eficacia: 90.36427732079906 % Time:  1.769465446472168  s
+Dist -> cityblock Quadrants -> 20 k -> 5
+K = 5 : Eficacia: 90.48178613396006 % Time:  1.9656562805175781  s
+Dist -> cityblock Quadrants -> 21 k -> 5
+K = 5 : Eficacia: 80.96357226792009 % Time:  2.1516549587249756  s
+Dist -> cityblock Quadrants -> 22 k -> 5
+K = 5 : Eficacia: 81.43360752056404 % Time:  2.335336685180664  s
+Dist -> cityblock Quadrants -> 23 k -> 5
+K = 5 : Eficacia: 81.90364277320799 % Time:  2.5642828941345215  s
+Dist -> cityblock Quadrants -> 24 k -> 5
+K = 5 : Eficacia: 83.54876615746181 % Time:  2.8129050731658936  s
+Dist -> cityblock Quadrants -> 25 k -> 5
+K = 5 : Eficacia: 83.6662749706228 % Time:  3.0421085357666016  s
+Dist -> cityblock Quadrants -> 26 k -> 5
+K = 5 : Eficacia: 86.25146886016452 % Time:  3.3159372806549072  s
+Dist -> cityblock Quadrants -> 27 k -> 5
+K = 5 : Eficacia: 86.95652173913044 % Time:  3.555793285369873  s
+Dist -> cityblock Quadrants -> 28 k -> 5
+K = 5 : Eficacia: 88.01410105757932 % Time:  3.829941511154175  s
+Dist -> cityblock Quadrants -> 29 k -> 5
+K = 5 : Eficacia: 88.48413631022328 % Time:  4.122033357620239  s
+Dist -> cityblock Quadrants -> 30 k -> 5
+K = 5 : Eficacia: 89.1891891891892 % Time:  4.422299385070801  s
+Dist -> cityblock Quadrants -> 31 k -> 5
+K = 5 : Eficacia: 89.42420681551117 % Time:  4.717270374298096  s
+Dist -> cityblock Quadrants -> 32 k -> 5
+K = 5 : Eficacia: 90.12925969447708 % Time:  5.048009872436523  s
+Dist -> cityblock Quadrants -> 33 k -> 5
+K = 5 : Eficacia: 90.36427732079906 % Time:  5.318122863769531  s
+Dist -> cityblock Quadrants -> 34 k -> 5
+K = 5 : Eficacia: 91.18683901292597 % Time:  5.65757417678833  s
+Dist -> cityblock Quadrants -> 35 k -> 5
+K = 5 : Eficacia: 90.83431257344301 % Time:  5.988092422485352  s
+Dist -> cityblock Quadrants -> 36 k -> 5
+K = 5 : Eficacia: 90.36427732079906 % Time:  6.3925535678863525  s
+Dist -> cityblock Quadrants -> 37 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  6.698288202285767  s
+Dist -> cityblock Quadrants -> 38 k -> 5
+K = 5 : Eficacia: 90.12925969447708 % Time:  7.050703763961792  s
+Dist -> cityblock Quadrants -> 39 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  7.397247314453125  s
+Dist -> cityblock Quadrants -> 40 k -> 5
+K = 5 : Eficacia: 90.48178613396006 % Time:  7.800168991088867  s
+Dist -> cosine Quadrants -> 10 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  0.4793422222137451  s
+Dist -> cosine Quadrants -> 11 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  0.5757393836975098  s
+Dist -> cosine Quadrants -> 12 k -> 5
+K = 5 : Eficacia: 90.59929494712104 % Time:  0.687657356262207  s
+Dist -> cosine Quadrants -> 13 k -> 5
+K = 5 : Eficacia: 90.48178613396006 % Time:  0.7944352626800537  s
+Dist -> cosine Quadrants -> 14 k -> 5
+K = 5 : Eficacia: 87.77908343125735 % Time:  0.9127283096313477  s
+Dist -> cosine Quadrants -> 15 k -> 5
+K = 5 : Eficacia: 89.42420681551117 % Time:  1.0532612800598145  s
+Dist -> cosine Quadrants -> 16 k -> 5
+K = 5 : Eficacia: 90.0117508813161 % Time:  1.1998302936553955  s
+Dist -> cosine Quadrants -> 17 k -> 5
+K = 5 : Eficacia: 89.54171562867215 % Time:  1.3706824779510498  s
+Dist -> cosine Quadrants -> 18 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  1.5277836322784424  s
+Dist -> cosine Quadrants -> 19 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  1.7130703926086426  s
+Dist -> cosine Quadrants -> 20 k -> 5
+K = 5 : Eficacia: 90.71680376028202 % Time:  1.8926236629486084  s
+Dist -> cosine Quadrants -> 21 k -> 5
+K = 5 : Eficacia: 80.37602820211515 % Time:  2.0942282676696777  s
+Dist -> cosine Quadrants -> 22 k -> 5
+K = 5 : Eficacia: 81.31609870740306 % Time:  2.2847368717193604  s
+Dist -> cosine Quadrants -> 23 k -> 5
+K = 5 : Eficacia: 82.49118683901293 % Time:  2.511766195297241  s
+Dist -> cosine Quadrants -> 24 k -> 5
+K = 5 : Eficacia: 82.84371327849588 % Time:  2.7306346893310547  s
+Dist -> cosine Quadrants -> 25 k -> 5
+K = 5 : Eficacia: 83.31374853113984 % Time:  2.986682176589966  s
+Dist -> cosine Quadrants -> 26 k -> 5
+K = 5 : Eficacia: 85.31139835487662 % Time:  3.2297141551971436  s
+Dist -> cosine Quadrants -> 27 k -> 5
+K = 5 : Eficacia: 86.01645123384255 % Time:  3.5215392112731934  s
+Dist -> cosine Quadrants -> 28 k -> 5
+K = 5 : Eficacia: 88.01410105757932 % Time:  3.7676470279693604  s
+Dist -> cosine Quadrants -> 29 k -> 5
+K = 5 : Eficacia: 88.36662749706228 % Time:  4.063215494155884  s
+Dist -> cosine Quadrants -> 30 k -> 5
+K = 5 : Eficacia: 88.48413631022328 % Time:  4.3689117431640625  s
+Dist -> cosine Quadrants -> 31 k -> 5
+K = 5 : Eficacia: 89.1891891891892 % Time:  4.628689765930176  s
+Dist -> cosine Quadrants -> 32 k -> 5
+K = 5 : Eficacia: 89.30669800235017 % Time:  5.027822732925415  s
+Dist -> cosine Quadrants -> 33 k -> 5
+K = 5 : Eficacia: 89.1891891891892 % Time:  5.255654573440552  s
+Dist -> cosine Quadrants -> 34 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  5.601424217224121  s
+Dist -> cosine Quadrants -> 35 k -> 5
+K = 5 : Eficacia: 90.24676850763808 % Time:  5.94322943687439  s
+Dist -> cosine Quadrants -> 36 k -> 5
+K = 5 : Eficacia: 89.89424206815512 % Time:  6.433070182800293  s
+Dist -> cosine Quadrants -> 37 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  6.676381349563599  s
+Dist -> cosine Quadrants -> 38 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  7.159566879272461  s
+Dist -> cosine Quadrants -> 39 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  7.287501096725464  s
+Dist -> cosine Quadrants -> 40 k -> 5
+K = 5 : Eficacia: 89.77673325499413 % Time:  7.646299362182617  s
+Dist -> euclidean Quadrants -> 10 k -> 6
+K = 6 : Eficacia: 89.77673325499413 % Time:  0.4749429225921631  s
+Dist -> euclidean Quadrants -> 11 k -> 6
+K = 6 : Eficacia: 89.30669800235017 % Time:  0.5705974102020264  s
+Dist -> euclidean Quadrants -> 12 k -> 6
+K = 6 : Eficacia: 90.12925969447708 % Time:  0.6653883457183838  s
+Dist -> euclidean Quadrants -> 13 k -> 6
+K = 6 : Eficacia: 91.18683901292597 % Time:  0.7716851234436035  s
+Dist -> euclidean Quadrants -> 14 k -> 6
+K = 6 : Eficacia: 88.36662749706228 % Time:  0.9045858383178711  s
+Dist -> euclidean Quadrants -> 15 k -> 6
+K = 6 : Eficacia: 89.42420681551117 % Time:  1.0204336643218994  s
+Dist -> euclidean Quadrants -> 16 k -> 6
+K = 6 : Eficacia: 89.1891891891892 % Time:  1.1466028690338135  s
+Dist -> euclidean Quadrants -> 17 k -> 6
+K = 6 : Eficacia: 89.77673325499413 % Time:  1.2921550273895264  s
+Dist -> euclidean Quadrants -> 18 k -> 6
+K = 6 : Eficacia: 89.89424206815512 % Time:  1.4440076351165771  s
+Dist -> euclidean Quadrants -> 19 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  1.6054842472076416  s
+Dist -> euclidean Quadrants -> 20 k -> 6
+K = 6 : Eficacia: 90.48178613396006 % Time:  1.7671329975128174  s
+Dist -> euclidean Quadrants -> 21 k -> 6
+K = 6 : Eficacia: 80.8460634547591 % Time:  1.9329328536987305  s
+Dist -> euclidean Quadrants -> 22 k -> 6
+K = 6 : Eficacia: 81.786133960047 % Time:  2.130685567855835  s
+Dist -> euclidean Quadrants -> 23 k -> 6
+K = 6 : Eficacia: 82.37367802585194 % Time:  2.3340070247650146  s
+Dist -> euclidean Quadrants -> 24 k -> 6
+K = 6 : Eficacia: 82.7262044653349 % Time:  2.536181688308716  s
+Dist -> euclidean Quadrants -> 25 k -> 6
+K = 6 : Eficacia: 83.78378378378379 % Time:  2.755167007446289  s
+Dist -> euclidean Quadrants -> 26 k -> 6
+K = 6 : Eficacia: 85.31139835487662 % Time:  2.9696340560913086  s
+Dist -> euclidean Quadrants -> 27 k -> 6
+K = 6 : Eficacia: 85.66392479435959 % Time:  3.2145273685455322  s
+Dist -> euclidean Quadrants -> 28 k -> 6
+K = 6 : Eficacia: 87.3090481786134 % Time:  3.4704830646514893  s
+Dist -> euclidean Quadrants -> 29 k -> 6
+K = 6 : Eficacia: 87.89659224441834 % Time:  3.73795485496521  s
+Dist -> euclidean Quadrants -> 30 k -> 6
+K = 6 : Eficacia: 88.01410105757932 % Time:  4.027441740036011  s
+Dist -> euclidean Quadrants -> 31 k -> 6
+K = 6 : Eficacia: 88.36662749706228 % Time:  4.2983622550964355  s
+Dist -> euclidean Quadrants -> 32 k -> 6
+K = 6 : Eficacia: 89.07168037602821 % Time:  4.604548692703247  s
+Dist -> euclidean Quadrants -> 33 k -> 6
+K = 6 : Eficacia: 90.0117508813161 % Time:  4.866063356399536  s
+Dist -> euclidean Quadrants -> 34 k -> 6
+K = 6 : Eficacia: 89.77673325499413 % Time:  5.156811714172363  s
+Dist -> euclidean Quadrants -> 35 k -> 6
+K = 6 : Eficacia: 90.48178613396006 % Time:  5.490082740783691  s
+Dist -> euclidean Quadrants -> 36 k -> 6
+K = 6 : Eficacia: 90.36427732079906 % Time:  6.026754379272461  s
+Dist -> euclidean Quadrants -> 37 k -> 6
+K = 6 : Eficacia: 90.59929494712104 % Time:  6.208209991455078  s
+Dist -> euclidean Quadrants -> 38 k -> 6
+K = 6 : Eficacia: 90.71680376028202 % Time:  6.4503912925720215  s
+Dist -> euclidean Quadrants -> 39 k -> 6
+K = 6 : Eficacia: 90.71680376028202 % Time:  6.967269420623779  s
+Dist -> euclidean Quadrants -> 40 k -> 6
+K = 6 : Eficacia: 90.83431257344301 % Time:  7.39489483833313  s
+Dist -> cityblock Quadrants -> 10 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  0.5096464157104492  s
+Dist -> cityblock Quadrants -> 11 k -> 6
+K = 6 : Eficacia: 90.83431257344301 % Time:  0.608665943145752  s
+Dist -> cityblock Quadrants -> 12 k -> 6
+K = 6 : Eficacia: 89.89424206815512 % Time:  0.724189281463623  s
+Dist -> cityblock Quadrants -> 13 k -> 6
+K = 6 : Eficacia: 90.48178613396006 % Time:  0.849799394607544  s
+Dist -> cityblock Quadrants -> 14 k -> 6
+K = 6 : Eficacia: 87.3090481786134 % Time:  0.9931128025054932  s
+Dist -> cityblock Quadrants -> 15 k -> 6
+K = 6 : Eficacia: 87.89659224441834 % Time:  1.1285901069641113  s
+Dist -> cityblock Quadrants -> 16 k -> 6
+K = 6 : Eficacia: 89.07168037602821 % Time:  1.2899069786071777  s
+Dist -> cityblock Quadrants -> 17 k -> 6
+K = 6 : Eficacia: 89.89424206815512 % Time:  1.4399909973144531  s
+Dist -> cityblock Quadrants -> 18 k -> 6
+K = 6 : Eficacia: 90.0117508813161 % Time:  1.6132636070251465  s
+Dist -> cityblock Quadrants -> 19 k -> 6
+K = 6 : Eficacia: 90.12925969447708 % Time:  1.7737157344818115  s
+Dist -> cityblock Quadrants -> 20 k -> 6
+K = 6 : Eficacia: 90.36427732079906 % Time:  1.9742321968078613  s
+Dist -> cityblock Quadrants -> 21 k -> 6
+K = 6 : Eficacia: 81.08108108108108 % Time:  2.4474472999572754  s
+Dist -> cityblock Quadrants -> 22 k -> 6
+K = 6 : Eficacia: 81.90364277320799 % Time:  2.4664559364318848  s
+Dist -> cityblock Quadrants -> 23 k -> 6
+K = 6 : Eficacia: 82.02115158636897 % Time:  2.6015915870666504  s
+Dist -> cityblock Quadrants -> 24 k -> 6
+K = 6 : Eficacia: 83.90129259694477 % Time:  2.834925651550293  s
+Dist -> cityblock Quadrants -> 25 k -> 6
+K = 6 : Eficacia: 84.13631022326675 % Time:  3.03126859664917  s
+Dist -> cityblock Quadrants -> 26 k -> 6
+K = 6 : Eficacia: 86.01645123384255 % Time:  3.281465768814087  s
+Dist -> cityblock Quadrants -> 27 k -> 6
+K = 6 : Eficacia: 86.13396004700353 % Time:  3.5691301822662354  s
+Dist -> cityblock Quadrants -> 28 k -> 6
+K = 6 : Eficacia: 88.1316098707403 % Time:  4.000299692153931  s
+Dist -> cityblock Quadrants -> 29 k -> 6
+K = 6 : Eficacia: 88.36662749706228 % Time:  4.177468299865723  s
+Dist -> cityblock Quadrants -> 30 k -> 6
+K = 6 : Eficacia: 88.60164512338426 % Time:  4.672833204269409  s
+Dist -> cityblock Quadrants -> 31 k -> 6
+K = 6 : Eficacia: 88.71915393654524 % Time:  4.8354527950286865  s
+Dist -> cityblock Quadrants -> 32 k -> 6
+K = 6 : Eficacia: 88.95417156286722 % Time:  5.202532529830933  s
+Dist -> cityblock Quadrants -> 33 k -> 6
+K = 6 : Eficacia: 90.36427732079906 % Time:  5.4834935665130615  s
+Dist -> cityblock Quadrants -> 34 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  5.62000036239624  s
+Dist -> cityblock Quadrants -> 35 k -> 6
+K = 6 : Eficacia: 90.59929494712104 % Time:  5.9997475147247314  s
+Dist -> cityblock Quadrants -> 36 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  6.340015649795532  s
+Dist -> cityblock Quadrants -> 37 k -> 6
+K = 6 : Eficacia: 90.0117508813161 % Time:  6.848888874053955  s
+Dist -> cityblock Quadrants -> 38 k -> 6
+K = 6 : Eficacia: 90.36427732079906 % Time:  7.068369388580322  s
+Dist -> cityblock Quadrants -> 39 k -> 6
+K = 6 : Eficacia: 90.48178613396006 % Time:  7.362037181854248  s
+Dist -> cityblock Quadrants -> 40 k -> 6
+K = 6 : Eficacia: 90.59929494712104 % Time:  7.964678049087524  s
+Dist -> cosine Quadrants -> 10 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  0.4863088130950928  s
+Dist -> cosine Quadrants -> 11 k -> 6
+K = 6 : Eficacia: 89.65922444183315 % Time:  0.5771420001983643  s
+Dist -> cosine Quadrants -> 12 k -> 6
+K = 6 : Eficacia: 90.12925969447708 % Time:  0.6821985244750977  s
+Dist -> cosine Quadrants -> 13 k -> 6
+K = 6 : Eficacia: 90.951821386604 % Time:  0.7978034019470215  s
+Dist -> cosine Quadrants -> 14 k -> 6
+K = 6 : Eficacia: 88.36662749706228 % Time:  0.9062714576721191  s
+Dist -> cosine Quadrants -> 15 k -> 6
+K = 6 : Eficacia: 90.12925969447708 % Time:  1.0506067276000977  s
+Dist -> cosine Quadrants -> 16 k -> 6
+K = 6 : Eficacia: 89.77673325499413 % Time:  1.1889324188232422  s
+Dist -> cosine Quadrants -> 17 k -> 6
+K = 6 : Eficacia: 89.65922444183315 % Time:  1.3584284782409668  s
+Dist -> cosine Quadrants -> 18 k -> 6
+K = 6 : Eficacia: 89.89424206815512 % Time:  1.5175070762634277  s
+Dist -> cosine Quadrants -> 19 k -> 6
+K = 6 : Eficacia: 90.0117508813161 % Time:  1.7486622333526611  s
+Dist -> cosine Quadrants -> 20 k -> 6
+K = 6 : Eficacia: 90.71680376028202 % Time:  1.9336416721343994  s
+Dist -> cosine Quadrants -> 21 k -> 6
+K = 6 : Eficacia: 80.37602820211515 % Time:  2.157589912414551  s
+Dist -> cosine Quadrants -> 22 k -> 6
+K = 6 : Eficacia: 81.55111633372502 % Time:  2.333874464035034  s
+Dist -> cosine Quadrants -> 23 k -> 6
+K = 6 : Eficacia: 82.7262044653349 % Time:  2.565333366394043  s
+Dist -> cosine Quadrants -> 24 k -> 6
+K = 6 : Eficacia: 82.6086956521739 % Time:  2.7611160278320312  s
+Dist -> cosine Quadrants -> 25 k -> 6
+K = 6 : Eficacia: 83.6662749706228 % Time:  2.9820759296417236  s
+Dist -> cosine Quadrants -> 26 k -> 6
+K = 6 : Eficacia: 85.42890716803761 % Time:  3.2087814807891846  s
+Dist -> cosine Quadrants -> 27 k -> 6
+K = 6 : Eficacia: 86.72150411280846 % Time:  3.450423002243042  s
+Dist -> cosine Quadrants -> 28 k -> 6
+K = 6 : Eficacia: 87.66157461809637 % Time:  3.8102927207946777  s
+Dist -> cosine Quadrants -> 29 k -> 6
+K = 6 : Eficacia: 87.54406580493537 % Time:  4.139404058456421  s
+Dist -> cosine Quadrants -> 30 k -> 6
+K = 6 : Eficacia: 88.1316098707403 % Time:  4.3534581661224365  s
+Dist -> cosine Quadrants -> 31 k -> 6
+K = 6 : Eficacia: 88.2491186839013 % Time:  4.6642725467681885  s
+Dist -> cosine Quadrants -> 32 k -> 6
+K = 6 : Eficacia: 88.71915393654524 % Time:  5.058189392089844  s
+Dist -> cosine Quadrants -> 33 k -> 6
+K = 6 : Eficacia: 88.60164512338426 % Time:  5.331107139587402  s
+Dist -> cosine Quadrants -> 34 k -> 6
+K = 6 : Eficacia: 89.54171562867215 % Time:  5.626126050949097  s
+Dist -> cosine Quadrants -> 35 k -> 6
+K = 6 : Eficacia: 89.89424206815512 % Time:  6.01623010635376  s
+Dist -> cosine Quadrants -> 36 k -> 6
+K = 6 : Eficacia: 90.12925969447708 % Time:  6.199398040771484  s
+Dist -> cosine Quadrants -> 37 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  6.583613157272339  s
+Dist -> cosine Quadrants -> 38 k -> 6
+K = 6 : Eficacia: 90.48178613396006 % Time:  7.033785104751587  s
+Dist -> cosine Quadrants -> 39 k -> 6
+K = 6 : Eficacia: 90.24676850763808 % Time:  7.363783597946167  s
+Dist -> cosine Quadrants -> 40 k -> 6
+K = 6 : Eficacia: 90.59929494712104 % Time:  7.845962285995483  s
+Dist -> euclidean Quadrants -> 10 k -> 7
+K = 7 : Eficacia: 89.07168037602821 % Time:  0.4743940830230713  s
+Dist -> euclidean Quadrants -> 11 k -> 7
+K = 7 : Eficacia: 87.89659224441834 % Time:  0.5758190155029297  s
+Dist -> euclidean Quadrants -> 12 k -> 7
+K = 7 : Eficacia: 88.71915393654524 % Time:  0.6847903728485107  s
+Dist -> euclidean Quadrants -> 13 k -> 7
+K = 7 : Eficacia: 89.07168037602821 % Time:  0.7761263847351074  s
+Dist -> euclidean Quadrants -> 14 k -> 7
+K = 7 : Eficacia: 87.07403055229143 % Time:  0.8968143463134766  s
+Dist -> euclidean Quadrants -> 15 k -> 7
+K = 7 : Eficacia: 88.36662749706228 % Time:  1.0329639911651611  s
+Dist -> euclidean Quadrants -> 16 k -> 7
+K = 7 : Eficacia: 88.95417156286722 % Time:  1.1586449146270752  s
+Dist -> euclidean Quadrants -> 17 k -> 7
+K = 7 : Eficacia: 88.95417156286722 % Time:  1.292492151260376  s
+Dist -> euclidean Quadrants -> 18 k -> 7
+K = 7 : Eficacia: 88.95417156286722 % Time:  1.448652744293213  s
+Dist -> euclidean Quadrants -> 19 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  1.5987350940704346  s
+Dist -> euclidean Quadrants -> 20 k -> 7
+K = 7 : Eficacia: 89.54171562867215 % Time:  1.7920339107513428  s
+Dist -> euclidean Quadrants -> 21 k -> 7
+K = 7 : Eficacia: 80.0235017626322 % Time:  1.9745242595672607  s
+Dist -> euclidean Quadrants -> 22 k -> 7
+K = 7 : Eficacia: 81.66862514688601 % Time:  2.157778024673462  s
+Dist -> euclidean Quadrants -> 23 k -> 7
+K = 7 : Eficacia: 82.02115158636897 % Time:  2.341311454772949  s
+Dist -> euclidean Quadrants -> 24 k -> 7
+K = 7 : Eficacia: 82.6086956521739 % Time:  2.561202049255371  s
+Dist -> euclidean Quadrants -> 25 k -> 7
+K = 7 : Eficacia: 83.43125734430082 % Time:  2.7497787475585938  s
+Dist -> euclidean Quadrants -> 26 k -> 7
+K = 7 : Eficacia: 84.13631022326675 % Time:  3.034259080886841  s
+Dist -> euclidean Quadrants -> 27 k -> 7
+K = 7 : Eficacia: 84.72385428907168 % Time:  3.2650771141052246  s
+Dist -> euclidean Quadrants -> 28 k -> 7
+K = 7 : Eficacia: 85.89894242068155 % Time:  3.4623000621795654  s
+Dist -> euclidean Quadrants -> 29 k -> 7
+K = 7 : Eficacia: 86.13396004700353 % Time:  3.74595308303833  s
+Dist -> euclidean Quadrants -> 30 k -> 7
+K = 7 : Eficacia: 86.83901292596946 % Time:  4.085194110870361  s
+Dist -> euclidean Quadrants -> 31 k -> 7
+K = 7 : Eficacia: 87.07403055229143 % Time:  4.262738227844238  s
+Dist -> euclidean Quadrants -> 32 k -> 7
+K = 7 : Eficacia: 87.54406580493537 % Time:  4.585366725921631  s
+Dist -> euclidean Quadrants -> 33 k -> 7
+K = 7 : Eficacia: 88.01410105757932 % Time:  4.862024545669556  s
+Dist -> euclidean Quadrants -> 34 k -> 7
+K = 7 : Eficacia: 88.48413631022328 % Time:  5.14373254776001  s
+Dist -> euclidean Quadrants -> 35 k -> 7
+K = 7 : Eficacia: 88.95417156286722 % Time:  5.465301990509033  s
+Dist -> euclidean Quadrants -> 36 k -> 7
+K = 7 : Eficacia: 89.42420681551117 % Time:  5.768022537231445  s
+Dist -> euclidean Quadrants -> 37 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  6.10227108001709  s
+Dist -> euclidean Quadrants -> 38 k -> 7
+K = 7 : Eficacia: 89.42420681551117 % Time:  6.432640790939331  s
+Dist -> euclidean Quadrants -> 39 k -> 7
+K = 7 : Eficacia: 89.54171562867215 % Time:  6.804778099060059  s
+Dist -> euclidean Quadrants -> 40 k -> 7
+K = 7 : Eficacia: 89.65922444183315 % Time:  7.508032321929932  s
+Dist -> cityblock Quadrants -> 10 k -> 7
+K = 7 : Eficacia: 88.48413631022328 % Time:  0.5153748989105225  s
+Dist -> cityblock Quadrants -> 11 k -> 7
+K = 7 : Eficacia: 88.83666274970624 % Time:  0.6168529987335205  s
+Dist -> cityblock Quadrants -> 12 k -> 7
+K = 7 : Eficacia: 89.42420681551117 % Time:  0.7124807834625244  s
+Dist -> cityblock Quadrants -> 13 k -> 7
+K = 7 : Eficacia: 89.77673325499413 % Time:  0.8426334857940674  s
+Dist -> cityblock Quadrants -> 14 k -> 7
+K = 7 : Eficacia: 86.72150411280846 % Time:  0.9638304710388184  s
+Dist -> cityblock Quadrants -> 15 k -> 7
+K = 7 : Eficacia: 88.01410105757932 % Time:  1.1070759296417236  s
+Dist -> cityblock Quadrants -> 16 k -> 7
+K = 7 : Eficacia: 89.07168037602821 % Time:  1.254338026046753  s
+Dist -> cityblock Quadrants -> 17 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  1.420947551727295  s
+Dist -> cityblock Quadrants -> 18 k -> 7
+K = 7 : Eficacia: 90.0117508813161 % Time:  1.6009690761566162  s
+Dist -> cityblock Quadrants -> 19 k -> 7
+K = 7 : Eficacia: 90.12925969447708 % Time:  1.7598817348480225  s
+Dist -> cityblock Quadrants -> 20 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  1.9556958675384521  s
+Dist -> cityblock Quadrants -> 21 k -> 7
+K = 7 : Eficacia: 80.25851938895417 % Time:  2.1469454765319824  s
+Dist -> cityblock Quadrants -> 22 k -> 7
+K = 7 : Eficacia: 80.49353701527615 % Time:  2.3517720699310303  s
+Dist -> cityblock Quadrants -> 23 k -> 7
+K = 7 : Eficacia: 81.08108108108108 % Time:  2.5732152462005615  s
+Dist -> cityblock Quadrants -> 24 k -> 7
+K = 7 : Eficacia: 81.90364277320799 % Time:  2.791027307510376  s
+Dist -> cityblock Quadrants -> 25 k -> 7
+K = 7 : Eficacia: 82.96122209165688 % Time:  3.117448568344116  s
+Dist -> cityblock Quadrants -> 26 k -> 7
+K = 7 : Eficacia: 84.13631022326675 % Time:  3.3533599376678467  s
+Dist -> cityblock Quadrants -> 27 k -> 7
+K = 7 : Eficacia: 84.72385428907168 % Time:  3.586299180984497  s
+Dist -> cityblock Quadrants -> 28 k -> 7
+K = 7 : Eficacia: 86.95652173913044 % Time:  3.7936620712280273  s
+Dist -> cityblock Quadrants -> 29 k -> 7
+K = 7 : Eficacia: 86.95652173913044 % Time:  4.290616512298584  s
+Dist -> cityblock Quadrants -> 30 k -> 7
+K = 7 : Eficacia: 87.77908343125735 % Time:  4.411144971847534  s
+Dist -> cityblock Quadrants -> 31 k -> 7
+K = 7 : Eficacia: 88.83666274970624 % Time:  4.736634016036987  s
+Dist -> cityblock Quadrants -> 32 k -> 7
+K = 7 : Eficacia: 88.83666274970624 % Time:  5.082175970077515  s
+Dist -> cityblock Quadrants -> 33 k -> 7
+K = 7 : Eficacia: 89.65922444183315 % Time:  5.3190248012542725  s
+Dist -> cityblock Quadrants -> 34 k -> 7
+K = 7 : Eficacia: 89.77673325499413 % Time:  5.7401793003082275  s
+Dist -> cityblock Quadrants -> 35 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  5.947479009628296  s
+Dist -> cityblock Quadrants -> 36 k -> 7
+K = 7 : Eficacia: 90.36427732079906 % Time:  6.404665946960449  s
+Dist -> cityblock Quadrants -> 37 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  6.689274787902832  s
+Dist -> cityblock Quadrants -> 38 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  7.095223903656006  s
+Dist -> cityblock Quadrants -> 39 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  7.3772077560424805  s
+Dist -> cityblock Quadrants -> 40 k -> 7
+K = 7 : Eficacia: 90.24676850763808 % Time:  7.795076608657837  s
+Dist -> cosine Quadrants -> 10 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  0.4855773448944092  s
+Dist -> cosine Quadrants -> 11 k -> 7
+K = 7 : Eficacia: 88.01410105757932 % Time:  0.5809230804443359  s
+Dist -> cosine Quadrants -> 12 k -> 7
+K = 7 : Eficacia: 89.77673325499413 % Time:  0.6850855350494385  s
+Dist -> cosine Quadrants -> 13 k -> 7
+K = 7 : Eficacia: 89.42420681551117 % Time:  0.7959153652191162  s
+Dist -> cosine Quadrants -> 14 k -> 7
+K = 7 : Eficacia: 87.89659224441834 % Time:  0.9142451286315918  s
+Dist -> cosine Quadrants -> 15 k -> 7
+K = 7 : Eficacia: 88.36662749706228 % Time:  1.0479967594146729  s
+Dist -> cosine Quadrants -> 16 k -> 7
+K = 7 : Eficacia: 88.71915393654524 % Time:  1.1971755027770996  s
+Dist -> cosine Quadrants -> 17 k -> 7
+K = 7 : Eficacia: 88.83666274970624 % Time:  1.3779182434082031  s
+Dist -> cosine Quadrants -> 18 k -> 7
+K = 7 : Eficacia: 89.1891891891892 % Time:  1.5368874073028564  s
+Dist -> cosine Quadrants -> 19 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  1.724837303161621  s
+Dist -> cosine Quadrants -> 20 k -> 7
+K = 7 : Eficacia: 89.42420681551117 % Time:  1.905761480331421  s
+Dist -> cosine Quadrants -> 21 k -> 7
+K = 7 : Eficacia: 79.9059929494712 % Time:  2.136315107345581  s
+Dist -> cosine Quadrants -> 22 k -> 7
+K = 7 : Eficacia: 81.55111633372502 % Time:  2.3245608806610107  s
+Dist -> cosine Quadrants -> 23 k -> 7
+K = 7 : Eficacia: 82.37367802585194 % Time:  2.5031850337982178  s
+Dist -> cosine Quadrants -> 24 k -> 7
+K = 7 : Eficacia: 81.90364277320799 % Time:  2.7339565753936768  s
+Dist -> cosine Quadrants -> 25 k -> 7
+K = 7 : Eficacia: 83.90129259694477 % Time:  2.9705851078033447  s
+Dist -> cosine Quadrants -> 26 k -> 7
+K = 7 : Eficacia: 84.25381903642773 % Time:  3.206303834915161  s
+Dist -> cosine Quadrants -> 27 k -> 7
+K = 7 : Eficacia: 85.19388954171563 % Time:  3.5080230236053467  s
+Dist -> cosine Quadrants -> 28 k -> 7
+K = 7 : Eficacia: 86.01645123384255 % Time:  3.7968554496765137  s
+Dist -> cosine Quadrants -> 29 k -> 7
+K = 7 : Eficacia: 86.48648648648648 % Time:  4.100588321685791  s
+Dist -> cosine Quadrants -> 30 k -> 7
+K = 7 : Eficacia: 87.19153936545241 % Time:  4.3274314403533936  s
+Dist -> cosine Quadrants -> 31 k -> 7
+K = 7 : Eficacia: 87.3090481786134 % Time:  4.656527042388916  s
+Dist -> cosine Quadrants -> 32 k -> 7
+K = 7 : Eficacia: 87.77908343125735 % Time:  5.0066304206848145  s
+Dist -> cosine Quadrants -> 33 k -> 7
+K = 7 : Eficacia: 87.77908343125735 % Time:  5.26036524772644  s
+Dist -> cosine Quadrants -> 34 k -> 7
+K = 7 : Eficacia: 88.71915393654524 % Time:  5.553699254989624  s
+Dist -> cosine Quadrants -> 35 k -> 7
+K = 7 : Eficacia: 88.48413631022328 % Time:  5.929727792739868  s
+Dist -> cosine Quadrants -> 36 k -> 7
+K = 7 : Eficacia: 89.07168037602821 % Time:  6.193284511566162  s
+Dist -> cosine Quadrants -> 37 k -> 7
+K = 7 : Eficacia: 89.1891891891892 % Time:  6.631877422332764  s
+Dist -> cosine Quadrants -> 38 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  7.116504430770874  s
+Dist -> cosine Quadrants -> 39 k -> 7
+K = 7 : Eficacia: 89.30669800235017 % Time:  7.295429468154907  s
+Dist -> cosine Quadrants -> 40 k -> 7
+K = 7 : Eficacia: 89.1891891891892 % Time:  7.8013036251068115  s
+Dist -> euclidean Quadrants -> 10 k -> 8
+K = 8 : Eficacia: 89.07168037602821 % Time:  0.48884034156799316  s
+Dist -> euclidean Quadrants -> 11 k -> 8
+K = 8 : Eficacia: 87.66157461809637 % Time:  0.5715651512145996  s
+Dist -> euclidean Quadrants -> 12 k -> 8
+K = 8 : Eficacia: 88.36662749706228 % Time:  0.6720831394195557  s
+Dist -> euclidean Quadrants -> 13 k -> 8
+K = 8 : Eficacia: 88.83666274970624 % Time:  0.7840025424957275  s
+Dist -> euclidean Quadrants -> 14 k -> 8
+K = 8 : Eficacia: 88.1316098707403 % Time:  0.900087833404541  s
+Dist -> euclidean Quadrants -> 15 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  1.028390884399414  s
+Dist -> euclidean Quadrants -> 16 k -> 8
+K = 8 : Eficacia: 88.60164512338426 % Time:  1.1688618659973145  s
+Dist -> euclidean Quadrants -> 17 k -> 8
+K = 8 : Eficacia: 88.71915393654524 % Time:  1.3068103790283203  s
+Dist -> euclidean Quadrants -> 18 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  1.4668688774108887  s
+Dist -> euclidean Quadrants -> 19 k -> 8
+K = 8 : Eficacia: 89.65922444183315 % Time:  1.6179606914520264  s
+Dist -> euclidean Quadrants -> 20 k -> 8
+K = 8 : Eficacia: 89.77673325499413 % Time:  1.8041505813598633  s
+Dist -> euclidean Quadrants -> 21 k -> 8
+K = 8 : Eficacia: 79.67097532314924 % Time:  1.9522600173950195  s
+Dist -> euclidean Quadrants -> 22 k -> 8
+K = 8 : Eficacia: 79.78848413631022 % Time:  2.1359996795654297  s
+Dist -> euclidean Quadrants -> 23 k -> 8
+K = 8 : Eficacia: 80.72855464159812 % Time:  2.3436639308929443  s
+Dist -> euclidean Quadrants -> 24 k -> 8
+K = 8 : Eficacia: 81.19858989424206 % Time:  2.5671284198760986  s
+Dist -> euclidean Quadrants -> 25 k -> 8
+K = 8 : Eficacia: 82.37367802585194 % Time:  2.7389063835144043  s
+Dist -> euclidean Quadrants -> 26 k -> 8
+K = 8 : Eficacia: 84.01880141010577 % Time:  2.972393274307251  s
+Dist -> euclidean Quadrants -> 27 k -> 8
+K = 8 : Eficacia: 85.31139835487662 % Time:  3.2145442962646484  s
+Dist -> euclidean Quadrants -> 28 k -> 8
+K = 8 : Eficacia: 85.78143360752057 % Time:  3.5074355602264404  s
+Dist -> euclidean Quadrants -> 29 k -> 8
+K = 8 : Eficacia: 86.01645123384255 % Time:  3.7987451553344727  s
+Dist -> euclidean Quadrants -> 30 k -> 8
+K = 8 : Eficacia: 87.19153936545241 % Time:  4.163018465042114  s
+Dist -> euclidean Quadrants -> 31 k -> 8
+K = 8 : Eficacia: 87.42655699177439 % Time:  4.4676713943481445  s
+Dist -> euclidean Quadrants -> 32 k -> 8
+K = 8 : Eficacia: 87.89659224441834 % Time:  4.756318807601929  s
+Dist -> euclidean Quadrants -> 33 k -> 8
+K = 8 : Eficacia: 88.48413631022328 % Time:  4.911287307739258  s
+Dist -> euclidean Quadrants -> 34 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  5.241714715957642  s
+Dist -> euclidean Quadrants -> 35 k -> 8
+K = 8 : Eficacia: 89.07168037602821 % Time:  5.517531156539917  s
+Dist -> euclidean Quadrants -> 36 k -> 8
+K = 8 : Eficacia: 89.07168037602821 % Time:  5.827727556228638  s
+Dist -> euclidean Quadrants -> 37 k -> 8
+K = 8 : Eficacia: 89.07168037602821 % Time:  6.1946117877960205  s
+Dist -> euclidean Quadrants -> 38 k -> 8
+K = 8 : Eficacia: 89.30669800235017 % Time:  6.5801308155059814  s
+Dist -> euclidean Quadrants -> 39 k -> 8
+K = 8 : Eficacia: 89.42420681551117 % Time:  6.859021186828613  s
+Dist -> euclidean Quadrants -> 40 k -> 8
+K = 8 : Eficacia: 89.65922444183315 % Time:  7.266379117965698  s
+Dist -> cityblock Quadrants -> 10 k -> 8
+K = 8 : Eficacia: 88.95417156286722 % Time:  0.5099589824676514  s
+Dist -> cityblock Quadrants -> 11 k -> 8
+K = 8 : Eficacia: 89.42420681551117 % Time:  0.6149561405181885  s
+Dist -> cityblock Quadrants -> 12 k -> 8
+K = 8 : Eficacia: 89.65922444183315 % Time:  0.7316286563873291  s
+Dist -> cityblock Quadrants -> 13 k -> 8
+K = 8 : Eficacia: 89.89424206815512 % Time:  0.8522717952728271  s
+Dist -> cityblock Quadrants -> 14 k -> 8
+K = 8 : Eficacia: 86.60399529964748 % Time:  0.9896342754364014  s
+Dist -> cityblock Quadrants -> 15 k -> 8
+K = 8 : Eficacia: 88.36662749706228 % Time:  1.1331071853637695  s
+Dist -> cityblock Quadrants -> 16 k -> 8
+K = 8 : Eficacia: 88.95417156286722 % Time:  1.3026409149169922  s
+Dist -> cityblock Quadrants -> 17 k -> 8
+K = 8 : Eficacia: 89.54171562867215 % Time:  1.4668967723846436  s
+Dist -> cityblock Quadrants -> 18 k -> 8
+K = 8 : Eficacia: 90.0117508813161 % Time:  1.607325553894043  s
+Dist -> cityblock Quadrants -> 19 k -> 8
+K = 8 : Eficacia: 89.89424206815512 % Time:  1.7845723628997803  s
+Dist -> cityblock Quadrants -> 20 k -> 8
+K = 8 : Eficacia: 89.65922444183315 % Time:  1.9600098133087158  s
+Dist -> cityblock Quadrants -> 21 k -> 8
+K = 8 : Eficacia: 80.0235017626322 % Time:  2.279615640640259  s
+Dist -> cityblock Quadrants -> 22 k -> 8
+K = 8 : Eficacia: 80.37602820211515 % Time:  2.3671112060546875  s
+Dist -> cityblock Quadrants -> 23 k -> 8
+K = 8 : Eficacia: 80.61104582843713 % Time:  2.6545958518981934  s
+Dist -> cityblock Quadrants -> 24 k -> 8
+K = 8 : Eficacia: 83.07873090481786 % Time:  2.8665220737457275  s
+Dist -> cityblock Quadrants -> 25 k -> 8
+K = 8 : Eficacia: 83.31374853113984 % Time:  3.0553267002105713  s
+Dist -> cityblock Quadrants -> 26 k -> 8
+K = 8 : Eficacia: 84.37132784958872 % Time:  3.2896482944488525  s
+Dist -> cityblock Quadrants -> 27 k -> 8
+K = 8 : Eficacia: 85.78143360752057 % Time:  3.547950267791748  s
+Dist -> cityblock Quadrants -> 28 k -> 8
+K = 8 : Eficacia: 86.95652173913044 % Time:  3.9674720764160156  s
+Dist -> cityblock Quadrants -> 29 k -> 8
+K = 8 : Eficacia: 87.3090481786134 % Time:  4.223064661026001  s
+Dist -> cityblock Quadrants -> 30 k -> 8
+K = 8 : Eficacia: 88.48413631022328 % Time:  4.479838848114014  s
+Dist -> cityblock Quadrants -> 31 k -> 8
+K = 8 : Eficacia: 89.42420681551117 % Time:  4.804797410964966  s
+Dist -> cityblock Quadrants -> 32 k -> 8
+K = 8 : Eficacia: 88.60164512338426 % Time:  5.078162431716919  s
+Dist -> cityblock Quadrants -> 33 k -> 8
+K = 8 : Eficacia: 89.42420681551117 % Time:  5.462905406951904  s
+Dist -> cityblock Quadrants -> 34 k -> 8
+K = 8 : Eficacia: 89.89424206815512 % Time:  5.681869268417358  s
+Dist -> cityblock Quadrants -> 35 k -> 8
+K = 8 : Eficacia: 90.12925969447708 % Time:  6.1172051429748535  s
+Dist -> cityblock Quadrants -> 36 k -> 8
+K = 8 : Eficacia: 90.24676850763808 % Time:  6.5220654010772705  s
+Dist -> cityblock Quadrants -> 37 k -> 8
+K = 8 : Eficacia: 89.77673325499413 % Time:  6.778583288192749  s
+Dist -> cityblock Quadrants -> 38 k -> 8
+K = 8 : Eficacia: 89.77673325499413 % Time:  7.186150312423706  s
+Dist -> cityblock Quadrants -> 39 k -> 8
+K = 8 : Eficacia: 89.89424206815512 % Time:  7.504796028137207  s
+Dist -> cityblock Quadrants -> 40 k -> 8
+K = 8 : Eficacia: 89.89424206815512 % Time:  7.881047010421753  s
+Dist -> cosine Quadrants -> 10 k -> 8
+K = 8 : Eficacia: 89.30669800235017 % Time:  0.4929523468017578  s
+Dist -> cosine Quadrants -> 11 k -> 8
+K = 8 : Eficacia: 88.1316098707403 % Time:  0.5892138481140137  s
+Dist -> cosine Quadrants -> 12 k -> 8
+K = 8 : Eficacia: 88.71915393654524 % Time:  0.6934337615966797  s
+Dist -> cosine Quadrants -> 13 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  0.807671308517456  s
+Dist -> cosine Quadrants -> 14 k -> 8
+K = 8 : Eficacia: 88.2491186839013 % Time:  0.9234678745269775  s
+Dist -> cosine Quadrants -> 15 k -> 8
+K = 8 : Eficacia: 89.30669800235017 % Time:  1.0615513324737549  s
+Dist -> cosine Quadrants -> 16 k -> 8
+K = 8 : Eficacia: 88.48413631022328 % Time:  1.220283031463623  s
+Dist -> cosine Quadrants -> 17 k -> 8
+K = 8 : Eficacia: 88.95417156286722 % Time:  1.3811681270599365  s
+Dist -> cosine Quadrants -> 18 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  1.5386669635772705  s
+Dist -> cosine Quadrants -> 19 k -> 8
+K = 8 : Eficacia: 89.65922444183315 % Time:  1.7147233486175537  s
+Dist -> cosine Quadrants -> 20 k -> 8
+K = 8 : Eficacia: 89.77673325499413 % Time:  1.9100325107574463  s
+Dist -> cosine Quadrants -> 21 k -> 8
+K = 8 : Eficacia: 79.78848413631022 % Time:  2.11417293548584  s
+Dist -> cosine Quadrants -> 22 k -> 8
+K = 8 : Eficacia: 80.49353701527615 % Time:  2.3213531970977783  s
+Dist -> cosine Quadrants -> 23 k -> 8
+K = 8 : Eficacia: 81.55111633372502 % Time:  2.776655435562134  s
+Dist -> cosine Quadrants -> 24 k -> 8
+K = 8 : Eficacia: 81.66862514688601 % Time:  2.8954429626464844  s
+Dist -> cosine Quadrants -> 25 k -> 8
+K = 8 : Eficacia: 83.54876615746181 % Time:  3.0545191764831543  s
+Dist -> cosine Quadrants -> 26 k -> 8
+K = 8 : Eficacia: 84.84136310223266 % Time:  3.3184046745300293  s
+Dist -> cosine Quadrants -> 27 k -> 8
+K = 8 : Eficacia: 85.31139835487662 % Time:  3.5999979972839355  s
+Dist -> cosine Quadrants -> 28 k -> 8
+K = 8 : Eficacia: 85.31139835487662 % Time:  3.8144097328186035  s
+Dist -> cosine Quadrants -> 29 k -> 8
+K = 8 : Eficacia: 86.13396004700353 % Time:  4.122122049331665  s
+Dist -> cosine Quadrants -> 30 k -> 8
+K = 8 : Eficacia: 87.66157461809637 % Time:  4.516017198562622  s
+Dist -> cosine Quadrants -> 31 k -> 8
+K = 8 : Eficacia: 87.77908343125735 % Time:  4.783617734909058  s
+Dist -> cosine Quadrants -> 32 k -> 8
+K = 8 : Eficacia: 87.77908343125735 % Time:  5.132981538772583  s
+Dist -> cosine Quadrants -> 33 k -> 8
+K = 8 : Eficacia: 88.2491186839013 % Time:  5.262094736099243  s
+Dist -> cosine Quadrants -> 34 k -> 8
+K = 8 : Eficacia: 88.2491186839013 % Time:  5.707927465438843  s
+Dist -> cosine Quadrants -> 35 k -> 8
+K = 8 : Eficacia: 88.48413631022328 % Time:  6.1033759117126465  s
+Dist -> cosine Quadrants -> 36 k -> 8
+K = 8 : Eficacia: 88.95417156286722 % Time:  6.376476764678955  s
+Dist -> cosine Quadrants -> 37 k -> 8
+K = 8 : Eficacia: 89.30669800235017 % Time:  6.547008037567139  s
+Dist -> cosine Quadrants -> 38 k -> 8
+K = 8 : Eficacia: 88.95417156286722 % Time:  6.91532564163208  s
+Dist -> cosine Quadrants -> 39 k -> 8
+K = 8 : Eficacia: 89.1891891891892 % Time:  7.254903316497803  s
+Dist -> cosine Quadrants -> 40 k -> 8
+K = 8 : Eficacia: 89.30669800235017 % Time:  7.63633131980896  s

@@ -2,6 +2,8 @@ import numpy as np
 import json
 import os
 from PIL import Image
+import matplotlib
+matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
 import math
 
